@@ -1,0 +1,4819 @@
+1
+00:00:16,970 --> 00:00:20,240
+I talk to lots of people who come here
+
+2
+00:00:20,240 --> 00:00:22,050
+looking for the Silicon Valley experience
+
+3
+00:00:22,090 --> 00:00:24,410
+They arrive with one suit case in hand
+
+4
+00:00:24,410 --> 00:00:26,980
+when they head south on the 101.
+
+5
+00:00:26,980 --> 00:00:29,500
+Hoping to see it this place they've heard about
+
+6
+00:00:30,390 --> 00:00:35,240
+and its freeways, and its office parks
+
+7
+00:00:35,240 --> 00:00:37,960
+and its strip malls, and
+
+8
+00:00:37,960 --> 00:00:40,330
+it looks like every place they've ever been
+
+9
+00:00:40,360 --> 00:00:41,890
+end up wondering where are they come,
+
+10
+00:00:41,890 --> 00:00:43,020
+why did they come here,
+
+11
+00:00:43,020 --> 00:00:44,530
+what was that brought them
+
+12
+00:00:46,880 --> 00:00:51,530
+Code itself is the underlying thing that makes computers work
+
+13
+00:00:51,530 --> 00:00:54,110
+Why is it important to the world, it's because
+
+14
+00:00:54,110 --> 00:00:58,200
+it's the blood of the organism, that's our culture now,
+
+15
+00:00:58,200 --> 00:01:00,200
+it makes everything go
+
+16
+00:01:01,580 --> 00:01:04,680
+Technology has become a God of our society now
+
+17
+00:01:04,680 --> 00:01:06,680
+I mean I think that its--people stand in awe of it
+
+18
+00:01:06,680 --> 00:01:09,370
+and stand in awe of the people that make it
+
+19
+00:01:18,860 --> 00:01:22,620
+There's a sense that software is a kind of new frontier
+
+20
+00:01:22,620 --> 00:01:24,680
+it's you know it's the old gold rush metaphor
+
+21
+00:01:24,680 --> 00:01:26,680
+the California gold rush all over again
+
+22
+00:01:26,730 --> 00:01:30,030
+It's the kind of Hollywood of the Twenties.
+
+23
+00:01:30,030 --> 00:01:34,670
+This very small set of people is really defining
+
+24
+00:01:34,670 --> 00:01:36,830
+what our world's gonna be like
+
+25
+00:01:36,940 --> 00:01:40,350
+I mean you know the computer becoming ubiquitous
+
+26
+00:01:40,350 --> 00:01:42,480
+and the way we interact with the world
+
+27
+00:01:42,480 --> 00:01:45,290
+more and more mediated through the computer
+
+28
+00:01:45,660 --> 00:01:47,980
+is this very small group of people
+
+29
+00:01:47,980 --> 00:01:50,990
+defining what that world's gonna be like.
+
+30
+00:01:52,300 --> 00:01:53,480
+Netscape !
+
+31
+00:01:53,480 --> 00:01:54,760
+everywhere !
+
+32
+00:01:54,760 --> 00:01:55,740
+team !
+
+33
+00:01:55,740 --> 00:01:56,540
+fight !
+
+34
+00:01:57,800 --> 00:01:59,480
+Less than three years ago
+
+35
+00:01:59,480 --> 00:02:02,430
+a small team of engineers at Netscape Communications
+
+36
+00:02:02,430 --> 00:02:05,420
+created software that made surfing the Internet easy
+
+37
+00:02:05,420 --> 00:02:08,570
+and in the process change the face of computing
+
+38
+00:02:09,690 --> 00:02:12,990
+On this day however, the company is in big trouble
+
+39
+00:02:12,990 --> 00:02:17,370
+driven to the ground by its rival and software colossus Microsoft
+
+40
+00:02:17,370 --> 00:02:20,400
+Only a radical strategy will help save it.
+
+41
+00:02:20,840 --> 00:02:22,890
+"Let's hear a loud Mozilla !"
+
+42
+00:02:22,890 --> 00:02:28,080
+Mozilla ! Mozilla ! Mozilla !
+
+43
+00:02:28,730 --> 00:02:30,780
+Netscape is giving away its source code
+
+44
+00:02:30,780 --> 00:02:33,100
+to programmers outside the company
+
+45
+00:02:33,770 --> 00:02:37,240
+The source code is the secret formula for browsing the web
+
+46
+00:02:38,040 --> 00:02:41,240
+The code is named Mozilla and if widely adapted
+
+47
+00:02:41,240 --> 00:02:44,030
+it will make Netscape's code the Internet standard
+
+48
+00:02:44,030 --> 00:02:46,330
+drawing users to its other products
+
+49
+00:02:46,330 --> 00:02:49,320
+and restoring the company's sagging fortunes.
+
+50
+00:02:49,840 --> 00:02:52,410
+Our story focuses on team of engineers
+
+51
+00:02:52,410 --> 00:02:54,400
+who will come together in this building
+
+52
+00:02:54,540 --> 00:02:56,400
+Over the course of the next year
+
+53
+00:02:56,400 --> 00:02:59,580
+they will turn their lives inside-out to create Mozilla
+
+54
+00:02:59,600 --> 00:03:02,600
+and battle a giant competitor to save their company
+
+55
+00:03:02,600 --> 00:03:04,700
+and shape the future of computing.
+
+56
+00:03:11,630 --> 00:03:16,010
+Right now we have a problem with the work looks like it can't possibly be done
+
+57
+00:03:16,010 --> 00:03:19,240
+for the date we announced
+
+58
+00:03:19,240 --> 00:03:21,130
+so were just trying to
+
+59
+00:03:22,410 --> 00:03:26,080
+drill down on how doomed we are
+
+60
+00:03:26,080 --> 00:03:30,510
+and sometimes the only way to do that is
+
+61
+00:03:30,510 --> 00:03:32,830
+to get everybody in the room and stare each other in the eyes.
+
+62
+00:03:32,830 --> 00:03:35,740
+We said were giving you Netscape Communicator on 3/31
+
+63
+00:03:35,740 --> 00:03:38,640
+so if were not giving them Netscape Communicator on 3/31
+
+64
+00:03:38,640 --> 00:03:40,640
+we need a way to address that.
+
+65
+00:03:41,470 --> 00:03:44,890
+The goal is to get Mozilla to developpers by March 31th
+
+66
+00:03:44,890 --> 00:03:46,890
+a few shorts weeks from now
+
+67
+00:03:46,890 --> 00:03:50,080
+it is one of the most ambitious schedules in the company history.
+
+68
+00:03:50,080 --> 00:03:50,990
+- It's a joke
+
+69
+00:03:50,990 --> 00:03:51,950
+- I think we have been very exclusive
+
+70
+00:03:59,210 --> 00:04:02,400
+Michael Toy one of Netscape's first employees
+
+71
+00:04:02,400 --> 00:04:05,450
+heads the team that will prepare Mozilla for public release.
+
+72
+00:04:08,410 --> 00:04:10,670
+We're probably doomed, we're probably gonna fail
+
+73
+00:04:10,670 --> 00:04:13,050
+Microsoft is probably gonna squish us like bug anyway
+
+74
+00:04:13,050 --> 00:04:15,160
+but just cause were doomed doesn't mean
+
+75
+00:04:15,160 --> 00:04:18,170
+you know we cant get up in the morning and do work
+
+76
+00:04:18,800 --> 00:04:21,080
+All rise
+
+77
+00:04:21,790 --> 00:04:24,800
+the honorable Michael Toy presiding.
+
+78
+00:04:26,640 --> 00:04:29,150
+I'm pretty flip with my kids about what I do.
+
+79
+00:04:29,150 --> 00:04:32,320
+What do you do at work dad? Oh I don't know I sit in meetings
+
+80
+00:04:32,320 --> 00:04:34,730
+and feel depressed and I read e-mail.
+
+81
+00:04:34,730 --> 00:04:36,480
+Oh oh you got me !
+
+82
+00:04:36,480 --> 00:04:38,960
+They think my office is the greatest place in the world though
+
+83
+00:04:38,960 --> 00:04:40,700
+It's like "Oh were going to your office ?"
+
+84
+00:04:40,700 --> 00:04:43,340
+"Oh yeah yippie I love going to you office !"
+
+85
+00:04:43,340 --> 00:04:46,330
+They play with the guns and there is free soda
+
+86
+00:04:46,330 --> 00:04:48,330
+and there is the giant balls
+
+87
+00:04:48,330 --> 00:04:51,550
+basically I worked at Disneyland as far as they're concerned.
+
+88
+00:04:51,550 --> 00:04:54,030
+I talk about marathon versus sprint.
+
+89
+00:04:54,030 --> 00:04:57,210
+The hard part is to run with significant intensity the all way
+
+90
+00:04:57,210 --> 00:04:59,580
+knowing that if you ever start walking
+
+91
+00:04:59,580 --> 00:05:02,400
+you're not going to make it and just keep the end in sight
+
+92
+00:05:02,400 --> 00:05:04,400
+and know that there's this urgency.
+
+93
+00:05:04,880 --> 00:05:07,840
+Jim Roskind an expert on software security
+
+94
+00:05:07,840 --> 00:05:11,420
+is brought in to enforce rigorous standards of engineering precision.
+
+95
+00:05:11,420 --> 00:05:13,260
+Imagine if you had a project
+
+96
+00:05:13,260 --> 00:05:15,210
+where you felt doom was imminent
+
+97
+00:05:15,210 --> 00:05:16,890
+all the different players wondering
+
+98
+00:05:16,890 --> 00:05:18,460
+are they pushed beyond their level
+
+99
+00:05:18,460 --> 00:05:20,460
+can they think of way of running faster,
+
+100
+00:05:20,460 --> 00:05:21,480
+can anyone help them ?
+
+101
+00:05:21,560 --> 00:05:23,370
+So there's lot of tension
+
+102
+00:05:23,370 --> 00:05:26,060
+and anxiety over making the schedule.
+
+103
+00:05:26,620 --> 00:05:29,550
+Jamie Zawinski, free source code evangelist
+
+104
+00:05:29,550 --> 00:05:32,700
+will enlist outside developers to Netscape's cause.
+
+105
+00:05:33,080 --> 00:05:36,190
+The free source thing is trying to change the rules, right.
+
+106
+00:05:36,570 --> 00:05:39,560
+There are people who have the free software religion,
+
+107
+00:05:39,560 --> 00:05:41,950
+the one thing they have in common is they're all hackers
+
+108
+00:05:42,360 --> 00:05:45,370
+they're all like writing code
+
+109
+00:05:45,740 --> 00:05:48,800
+so you hoping to tap in to all of those smart people
+
+110
+00:05:48,800 --> 00:05:51,680
+and get something from them, you know, so that everyone benefits..
+
+111
+00:05:56,410 --> 00:05:59,020
+I talk about 2 millions and 2 half millions lines of code
+
+112
+00:05:59,020 --> 00:06:01,020
+and everyone of them has to be gone over
+
+113
+00:06:01,020 --> 00:06:03,280
+carefully and in some cases twice.
+
+114
+00:06:07,690 --> 00:06:10,220
+With hundreds of engineers converging on Mozilla,
+
+115
+00:06:10,220 --> 00:06:12,220
+with new code to enable its release,
+
+116
+00:06:12,220 --> 00:06:13,850
+Tara Hernandez make sure
+
+117
+00:06:13,850 --> 00:06:15,950
+that their changes do not crash Mozilla
+
+118
+00:06:15,960 --> 00:06:17,870
+and brings everyones work to a hold.
+
+119
+00:06:18,250 --> 00:06:19,260
+This is how we keep track
+
+120
+00:06:19,260 --> 00:06:20,800
+of all the changes that are going in.
+
+121
+00:06:20,800 --> 00:06:22,190
+Green is good.
+
+122
+00:06:24,170 --> 00:06:25,520
+Lot of changes going on right here,
+
+123
+00:06:25,520 --> 00:06:27,340
+and wham, the build all died.
+
+124
+00:06:27,340 --> 00:06:29,630
+Ok, alright, bye.
+
+125
+00:06:33,740 --> 00:06:35,360
+We're doomed.
+
+126
+00:06:35,660 --> 00:06:38,960
+Some of the worst crashes are reserved for Scott Collins
+
+127
+00:06:38,960 --> 00:06:40,940
+a veteran code writer who stands by
+
+128
+00:06:40,940 --> 00:06:42,970
+for late night troubleshooting.
+
+129
+00:06:46,220 --> 00:06:48,170
+I've been here for about
+
+130
+00:06:48,170 --> 00:06:50,170
+I don't know, 60 hours or so.
+
+131
+00:06:50,170 --> 00:06:52,480
+Writing software is different from
+
+132
+00:06:52,480 --> 00:06:54,480
+selling real estate.
+
+133
+00:06:54,890 --> 00:06:56,600
+Selling real estate you sell the people
+
+134
+00:06:56,600 --> 00:06:58,000
+the people sleep at night.
+
+135
+00:06:58,490 --> 00:07:00,810
+When they go to sleep you have to stop selling real estate
+
+136
+00:07:00,810 --> 00:07:02,280
+Computers never sleep.
+
+137
+00:07:06,010 --> 00:07:08,170
+You can see my cube is decked out a little bit better than
+
+138
+00:07:08,170 --> 00:07:10,170
+all the people's.
+
+139
+00:07:11,160 --> 00:07:13,340
+I have a nice couch
+
+140
+00:07:13,340 --> 00:07:15,600
+little mattress under there I can sleep in
+
+141
+00:07:15,600 --> 00:07:17,160
+artwork from my children
+
+142
+00:07:17,160 --> 00:07:18,750
+I have control the light switches.
+
+143
+00:07:18,750 --> 00:07:21,740
+This is what I'd like to get if my wife truly love me
+
+144
+00:07:21,740 --> 00:07:23,440
+she'd let me have one.
+
+145
+00:07:24,480 --> 00:07:25,640
+Life is good.
+
+146
+00:07:30,730 --> 00:07:31,480
+Ok
+
+147
+00:07:32,490 --> 00:07:33,440
+Bug count.
+
+148
+00:07:33,440 --> 00:07:37,000
+Alright, there are a ton of bugs on here that
+
+149
+00:07:37,000 --> 00:07:39,120
+people just aren't doing anything about.
+
+150
+00:07:39,360 --> 00:07:40,570
+To give away its code
+
+151
+00:07:40,570 --> 00:07:43,740
+Netscape engineers must make thousands of bug fixes
+
+152
+00:07:43,740 --> 00:07:45,980
+Often minute changes that will allow the code
+
+153
+00:07:45,980 --> 00:07:48,300
+to be used by outside developpers.
+
+154
+00:07:48,670 --> 00:07:50,880
+Jeff Weinstein has, one, two,
+
+155
+00:07:50,880 --> 00:07:52,270
+three, four, five, six,
+
+156
+00:07:52,270 --> 00:07:53,760
+seven, eight, nine, ten,
+
+157
+00:07:53,760 --> 00:07:55,710
+eleven, twelve, thirteen.
+
+158
+00:07:55,710 --> 00:07:57,850
+One bug hidden in the mass of code
+
+159
+00:07:57,850 --> 00:07:59,440
+can stop everyone else's work
+
+160
+00:07:59,440 --> 00:08:01,020
+and can threaten the ship date.
+
+161
+00:08:01,020 --> 00:08:03,280
+I need someone to page Jeff Weinstein
+
+162
+00:08:03,320 --> 00:08:05,240
+and get him to call 2024.
+
+163
+00:08:05,320 --> 00:08:08,010
+Even a team of twenty people building a car
+
+164
+00:08:08,010 --> 00:08:10,140
+it's easy to step back fourty feet and look and go
+
+165
+00:08:10,140 --> 00:08:12,140
+"Hold it, that guy has not putting on the wheel"
+
+166
+00:08:12,330 --> 00:08:14,540
+You have fourty programmers working
+
+167
+00:08:14,540 --> 00:08:17,160
+they all come to you with code, a gigantic morass
+
+168
+00:08:17,160 --> 00:08:19,680
+of little details piled up on a disc
+
+169
+00:08:19,680 --> 00:08:22,030
+usually can even see the pieces whether they're doing it correctly
+
+170
+00:08:22,030 --> 00:08:23,550
+You have to assemble it into a whole
+
+171
+00:08:23,550 --> 00:08:25,040
+and then see if the whole works
+
+172
+00:08:25,040 --> 00:08:27,320
+and then you're not even sure of who gave you the bad bits.
+
+173
+00:08:31,870 --> 00:08:33,850
+That would be bad. Let's go downstairs, come on!
+
+174
+00:08:33,850 --> 00:08:35,500
+You're talking about a recipe.
+
+175
+00:08:35,500 --> 00:08:37,020
+Who gave you the bad flour.
+
+176
+00:08:37,020 --> 00:08:38,400
+Someone went out to grind flour,
+
+177
+00:08:38,400 --> 00:08:39,720
+and they had to all be exactly
+
+178
+00:08:39,720 --> 00:08:41,660
+the right size chunks of flour.
+
+179
+00:08:41,660 --> 00:08:42,960
+Someone else made chocolate chips,
+
+180
+00:08:42,960 --> 00:08:44,960
+they all had to be exactly the right size chunks.
+
+181
+00:08:44,960 --> 00:08:46,840
+You can't figure it out until you put it all together
+
+182
+00:08:46,840 --> 00:08:47,880
+you hand it out, and people go.
+
+183
+00:08:47,880 --> 00:08:49,340
+"I don't like the way this tastes"
+
+184
+00:08:51,310 --> 00:08:52,400
+And now you have to wonder,
+
+185
+00:08:52,400 --> 00:08:54,160
+with all these details coming together
+
+186
+00:08:54,160 --> 00:08:55,840
+which was the problem
+
+187
+00:08:55,840 --> 00:08:57,840
+who's causing the problem, how can you fix it?
+
+188
+00:08:57,840 --> 00:09:00,400
+You've got to ship on a certain time.
+
+189
+00:09:00,400 --> 00:09:02,400
+And now you have all this people,
+
+190
+00:09:02,400 --> 00:09:04,990
+you have the clock ticking and it gets pretty intense.
+
+191
+00:09:05,290 --> 00:09:06,700
+Since Nescape began
+
+192
+00:09:06,700 --> 00:09:08,520
+the amount of code making up Mozilla
+
+193
+00:09:08,520 --> 00:09:10,520
+has increased by a factor of 30.
+
+194
+00:09:11,260 --> 00:09:13,360
+The job of programming and debugging it
+
+195
+00:09:13,360 --> 00:09:16,410
+rests upon a precarious balance of science and art.
+
+196
+00:09:18,640 --> 00:09:21,790
+They talk about what they do as if
+
+197
+00:09:21,790 --> 00:09:24,890
+it was a kind of alchemy, a kind of wizardry.
+
+198
+00:09:25,370 --> 00:09:27,980
+It does remind me of athletics in that way.
+
+199
+00:09:27,980 --> 00:09:30,040
+You know why is someone a good baseball hitter?
+
+200
+00:09:30,560 --> 00:09:33,210
+Often the hitters themselves can't really explain it.
+
+201
+00:09:33,740 --> 00:09:36,000
+And often the best software people
+
+202
+00:09:36,000 --> 00:09:39,600
+cannot themselves understand why they're so good at it.
+
+203
+00:09:40,480 --> 00:09:44,040
+But I think make a great programmer is being raised techie.
+
+204
+00:09:44,040 --> 00:09:47,050
+My particular team at Netscape, I think we all grew up techie
+
+205
+00:09:47,050 --> 00:09:51,120
+We all grew up with computers around us somewhere,
+
+206
+00:09:51,120 --> 00:09:54,140
+so that we were exposed to them before we became
+
+207
+00:09:54,910 --> 00:09:57,710
+adults, if any of us are really adults
+
+208
+00:09:57,710 --> 00:09:59,710
+Jim is the most grownup of us.
+
+209
+00:10:02,000 --> 00:10:05,280
+A lot of my childhood from roughly age 6 to age 17
+
+210
+00:10:05,280 --> 00:10:06,460
+was around here.
+
+211
+00:10:06,780 --> 00:10:09,710
+Life was just a nightmare, this is a very, very scary place
+
+212
+00:10:09,710 --> 00:10:11,610
+So to school wasn't too bad.
+
+213
+00:10:11,610 --> 00:10:13,870
+Ah, but it meant it
+
+214
+00:10:13,870 --> 00:10:16,700
+you'd get to work on puzzles and problems.
+
+215
+00:10:17,920 --> 00:10:20,320
+All of the puzzling is math,
+
+216
+00:10:20,320 --> 00:10:22,880
+and that puzzling is the exact same feeling
+
+217
+00:10:22,880 --> 00:10:24,540
+the exact same problem that you go through
+
+218
+00:10:24,540 --> 00:10:25,640
+when you're programming.
+
+219
+00:10:26,510 --> 00:10:29,800
+When I was young it'd be building with erector sets and Lego
+
+220
+00:10:30,040 --> 00:10:33,100
+now the structures that you build are in software.
+
+221
+00:10:34,080 --> 00:10:36,330
+My mom is a first class geek too.
+
+222
+00:10:36,830 --> 00:10:39,710
+And so I have a unique experience of being able to talk
+
+223
+00:10:40,110 --> 00:10:42,960
+shop with my mom, cuz' she's a director of
+
+224
+00:10:42,960 --> 00:10:45,400
+really important stuff at Sun.
+
+225
+00:10:47,930 --> 00:10:50,880
+At Netscape one of the code words for is the average person
+
+226
+00:10:50,880 --> 00:10:52,110
+who is going to be able to use this software is,
+
+227
+00:10:52,110 --> 00:10:54,110
+"Well can my mom use it?"
+
+228
+00:10:54,830 --> 00:10:56,510
+Yeah, my mom can use it.
+
+229
+00:10:56,510 --> 00:10:58,510
+My mom can write optimizing compilers.
+
+230
+00:11:02,030 --> 00:11:04,680
+By the time I was 12 years old I was making 50 bucks an hour
+
+231
+00:11:04,680 --> 00:11:05,950
+programming computers.
+
+232
+00:11:06,760 --> 00:11:10,620
+People say what should I be should I grow up to be a...
+
+233
+00:11:10,620 --> 00:11:12,090
+I say computer programmer.
+
+234
+00:11:16,330 --> 00:11:19,740
+The thing about that makes it a youth culture
+
+235
+00:11:19,740 --> 00:11:23,230
+is one's capacity to throw one's entire life on the line
+
+236
+00:11:23,230 --> 00:11:24,490
+with these firms
+
+237
+00:11:25,520 --> 00:11:27,820
+Entire life commitment meaning
+
+238
+00:11:27,820 --> 00:11:30,860
+24-7-365 work commitment.
+
+239
+00:11:33,040 --> 00:11:34,680
+It's throwing yourself into a thing
+
+240
+00:11:34,680 --> 00:11:36,840
+where you don't know if that job
+
+241
+00:11:36,840 --> 00:11:38,120
+is going to be around soon.
+
+242
+00:11:38,120 --> 00:11:40,010
+There's no stability in here.
+
+243
+00:11:40,010 --> 00:11:43,450
+So the very kind of weird irony
+
+244
+00:11:43,450 --> 00:11:45,610
+is that very people who are inventing the future
+
+245
+00:11:45,610 --> 00:11:46,670
+can't see their own future.
+
+246
+00:11:47,930 --> 00:11:49,740
+This is a monk-life existence
+
+247
+00:11:49,740 --> 00:11:51,930
+there are very few women in these societies.
+
+248
+00:11:51,930 --> 00:11:54,060
+These are male societies,
+
+249
+00:11:54,060 --> 00:11:55,760
+they are secret societies,
+
+250
+00:11:55,760 --> 00:11:58,590
+they function very much like the Masons
+
+251
+00:11:58,590 --> 00:12:00,800
+or some street gang.
+
+252
+00:12:00,800 --> 00:12:01,850
+Evil!
+
+253
+00:12:03,840 --> 00:12:05,560
+Evil ! Evil !
+
+254
+00:12:05,560 --> 00:12:06,320
+Evil man !
+
+255
+00:12:06,320 --> 00:12:07,150
+Why am I an evil man ?
+
+256
+00:12:07,150 --> 00:12:07,800
+Did you or did you not hear a man saying
+Why am I an evil man ?
+
+257
+00:12:07,800 --> 00:12:08,860
+Did you or did you not hear a man saying
+
+258
+00:12:08,860 --> 00:12:10,860
+if you have a source leaving one bug, you will be
+
+259
+00:12:10,860 --> 00:12:11,640
+in here at 1:30.
+
+260
+00:12:11,640 --> 00:12:13,040
+I thought it was 2:30
+
+261
+00:12:14,320 --> 00:12:15,800
+Now you're evil and stupid.
+
+262
+00:12:15,800 --> 00:12:16,440
+(laughs)
+
+263
+00:12:16,440 --> 00:12:18,000
+You now that, I'm actually just in a different time zone.
+
+264
+00:12:18,000 --> 00:12:20,160
+I thought stupidity was an excuse though.
+
+265
+00:12:20,460 --> 00:12:22,920
+A lot of people at Netscape don't get out much
+
+266
+00:12:22,920 --> 00:12:25,120
+because they're at work all the time but
+
+267
+00:12:25,120 --> 00:12:27,450
+most of people's social interaction I would expect is
+
+268
+00:12:27,450 --> 00:12:29,450
+revolves around work just because
+
+269
+00:12:29,450 --> 00:12:31,920
+so many people spend so much of their time at work.
+
+270
+00:12:31,920 --> 00:12:33,400
+Hi Chris, it's Tara
+
+271
+00:12:33,840 --> 00:12:35,080
+um, how much do you love me?
+
+272
+00:12:36,320 --> 00:12:37,040
+Good.
+
+273
+00:12:37,040 --> 00:12:38,680
+What do you know about way the threading stuff
+
+274
+00:12:38,680 --> 00:12:41,040
+that falls into Javascript stuff and Java makes it feed?
+
+275
+00:12:42,010 --> 00:12:43,920
+All we have left to hold on to, really
+
+276
+00:12:43,920 --> 00:12:46,080
+is the work place, I mean it is the modern village.
+
+277
+00:12:47,310 --> 00:12:49,310
+People get to know your history
+
+278
+00:12:49,310 --> 00:12:52,350
+they shrug about your bad jokes.
+
+279
+00:12:53,690 --> 00:12:55,710
+There's a kind of familiarity that
+
+280
+00:12:55,710 --> 00:12:58,380
+and continuity that we don't have elsewhere.
+
+281
+00:12:58,380 --> 00:12:59,480
+Paul
+
+282
+00:12:59,480 --> 00:13:02,600
+we're going to go out in a while and get something to eat
+
+283
+00:13:02,970 --> 00:13:04,410
+and do stupid things. You're interested?
+
+284
+00:13:04,410 --> 00:13:05,850
+Sure. Sure. Right.
+
+285
+00:13:06,490 --> 00:13:09,080
+Ok, the purpose of this meeting is not to beat up people
+
+286
+00:13:09,080 --> 00:13:11,230
+the purpose of this meeting is to make sure that
+
+287
+00:13:11,230 --> 00:13:13,660
+as a company we are incredibly focused on
+
+288
+00:13:13,660 --> 00:13:15,400
+getting the bug count to 0
+
+289
+00:13:15,720 --> 00:13:18,760
+we've been moderately focused up until now
+
+290
+00:13:18,760 --> 00:13:20,920
+we need to be deadly focused
+
+291
+00:13:20,920 --> 00:13:21,640
+from here on in.
+
+292
+00:13:21,640 --> 00:13:24,540
+Ok Jeff Weinstein
+
+293
+00:13:24,540 --> 00:13:26,540
+is he in this room?
+
+294
+00:13:27,720 --> 00:13:28,830
+He's not in this room.
+
+295
+00:13:28,830 --> 00:13:31,230
+Did not check-in this weekend, true or false?
+
+296
+00:13:31,230 --> 00:13:32,800
+He did not check-in this weekend
+
+297
+00:13:32,800 --> 00:13:33,920
+He did not answer his mail
+
+298
+00:13:33,920 --> 00:13:35,480
+and he hasn't answered his phone yet either.
+
+299
+00:13:35,480 --> 00:13:37,840
+His locator shows he's with the rest of the colonists
+
+300
+00:13:37,840 --> 00:13:39,840
+(laughs)
+
+301
+00:13:39,960 --> 00:13:42,520
+The old saying is that trying to manage programmers
+
+302
+00:13:42,520 --> 00:13:44,520
+is like trying to herd cats.
+
+303
+00:13:44,520 --> 00:13:46,520
+You know you want them to be cats
+
+304
+00:13:46,520 --> 00:13:49,290
+if you like cats, I mean 'cause you want what's unique about
+
+305
+00:13:49,290 --> 00:13:50,680
+that creature
+
+306
+00:13:50,680 --> 00:13:54,220
+But they really don't all like to go in the same direction.
+
+307
+00:13:55,240 --> 00:13:56,920
+In less than four years
+
+308
+00:13:56,920 --> 00:13:59,420
+Netscape has grown from a handful of people
+
+309
+00:13:59,420 --> 00:14:00,720
+to over 200
+
+310
+00:14:00,720 --> 00:14:02,880
+and sometimes, locating a programmer
+
+311
+00:14:02,880 --> 00:14:04,360
+become yet another obstacle
+
+312
+00:14:04,360 --> 00:14:06,220
+for the browser team to overcome.
+
+313
+00:14:06,220 --> 00:14:07,360
+I'd say he's not in there.
+
+314
+00:14:07,360 --> 00:14:09,710
+That would be my guess, straight out.
+
+315
+00:14:09,710 --> 00:14:11,210
+He's not there.
+
+316
+00:14:11,930 --> 00:14:14,040
+When's the last time he was in here?
+
+317
+00:14:14,040 --> 00:14:15,160
+This afternoon.
+
+318
+00:14:15,160 --> 00:14:16,760
+Ok
+
+319
+00:14:16,760 --> 00:14:19,900
+Tara and I are ready to take a hit out on him.
+
+320
+00:14:19,900 --> 00:14:22,700
+and well if ya see him when he comes back tell him to
+
+321
+00:14:22,700 --> 00:14:25,720
+panic and run around and we're like
+
+322
+00:14:25,720 --> 00:14:26,670
+doomed on Mac right now with this thing.
+
+323
+00:14:26,670 --> 00:14:27,760
+Doomed !
+doomed on Mac right now with this thing.
+
+324
+00:14:27,760 --> 00:14:27,770
+Doomed !
+
+325
+00:14:27,800 --> 00:14:31,320
+The person working on Mac is like waiting for data right ?
+
+326
+00:14:31,320 --> 00:14:34,490
+You should go around to every person in the company saying, "Doomed!"
+
+327
+00:14:36,670 --> 00:14:39,470
+Netscape predicament has much to do with this man
+
+328
+00:14:39,470 --> 00:14:42,160
+Bill Gates, whose company, Microsoft
+
+329
+00:14:42,160 --> 00:14:44,160
+has made him the richest, and arguably
+
+330
+00:14:44,160 --> 00:14:46,160
+the most powerful man in the world.
+
+331
+00:14:47,420 --> 00:14:49,710
+Allright if we can have order we'd like to begin.
+
+332
+00:14:49,920 --> 00:14:51,420
+Viewing Netscape's browser
+
+333
+00:14:51,420 --> 00:14:53,790
+as a potential threat to his computing empire
+
+334
+00:14:53,790 --> 00:14:55,450
+Gates has moved swiftly,
+
+335
+00:14:55,450 --> 00:14:57,180
+making his own browser free
+
+336
+00:14:57,660 --> 00:14:58,960
+and Netscape claims,
+
+337
+00:14:58,960 --> 00:15:01,680
+also engaging an unfair business practices
+
+338
+00:15:01,680 --> 00:15:03,680
+to take away its customers.
+
+339
+00:15:03,680 --> 00:15:05,180
+But we need to explore today
+
+340
+00:15:05,180 --> 00:15:06,680
+whether you and your company
+
+341
+00:15:06,680 --> 00:15:08,200
+have crossed the line
+
+342
+00:15:08,200 --> 00:15:09,870
+or on the other hand
+
+343
+00:15:09,870 --> 00:15:12,480
+whether this is just the carping of disgruntled rivals.
+
+344
+00:15:12,670 --> 00:15:15,050
+Netscape CEO Jim Barksdale
+
+345
+00:15:15,050 --> 00:15:17,420
+argues his company's case before the Senate.
+
+346
+00:15:17,420 --> 00:15:19,520
+And certainly nobody here on this panel is
+
+347
+00:15:19,520 --> 00:15:20,890
+a greater admirer of Mr. Gates
+
+348
+00:15:20,890 --> 00:15:22,300
+ or his company than I am.
+
+349
+00:15:22,300 --> 00:15:24,120
+But we do ask that Microsoft
+
+350
+00:15:24,120 --> 00:15:25,080
+be held accountable
+
+351
+00:15:25,080 --> 00:15:26,010
+for some of their actions.
+
+352
+00:15:26,060 --> 00:15:29,370
+Actions that intimidate PC OEM manufacturers
+
+353
+00:15:29,370 --> 00:15:32,400
+to use their products and exclusionary practises
+
+354
+00:15:32,400 --> 00:15:34,330
+that prevent them from using my products.
+
+355
+00:15:34,330 --> 00:15:36,330
+Not all companies succeed.
+
+356
+00:15:36,330 --> 00:15:38,540
+Some fail to embrace change.
+
+357
+00:15:39,130 --> 00:15:42,760
+This is the way technology in the free market works.
+
+358
+00:15:43,150 --> 00:15:45,520
+The software industry's success
+
+359
+00:15:45,520 --> 00:15:48,400
+has not been driven by government regulation
+
+360
+00:15:48,670 --> 00:15:51,680
+but by freedom and the basic human desire
+
+361
+00:15:51,680 --> 00:15:54,360
+to learn, to innovate and to excel.
+
+362
+00:15:54,360 --> 00:15:56,510
+Meanwhile thousand of miles away
+
+363
+00:15:56,510 --> 00:15:59,500
+Netscape programmers continue working around the clock
+
+364
+00:15:59,500 --> 00:16:01,640
+in a race to meet Mozilla's release date.
+
+365
+00:16:02,160 --> 00:16:04,600
+These guys they tend to work very consistently,
+
+366
+00:16:04,600 --> 00:16:06,860
+so they'll just keep working until it's done and they won't stop.
+
+367
+00:16:07,210 --> 00:16:09,050
+They don't need food, they don't need sleep,
+
+368
+00:16:09,050 --> 00:16:10,010
+they don't need anything
+
+369
+00:16:10,010 --> 00:16:13,130
+OK, so they take pay, but...
+
+370
+00:16:14,700 --> 00:16:17,050
+A while ago some people from Harvard came and said
+
+371
+00:16:17,050 --> 00:16:19,050
+"Well how do you develop software, we're writing a book" and I
+
+372
+00:16:19,260 --> 00:16:20,650
+and I talked about all the things I thought
+
+373
+00:16:20,650 --> 00:16:22,000
+were really important and they were just
+
+374
+00:16:22,000 --> 00:16:24,200
+it felt to me like they were shaking their heads going,
+
+375
+00:16:24,200 --> 00:16:26,240
+Oh, gee, he doesn't know about Principle 7
+
+376
+00:16:26,240 --> 00:16:28,040
+and oh, he doesn't know about Principle 22
+
+377
+00:16:28,040 --> 00:16:30,570
+and in some ways they're right... I really haven't got a clue.
+
+378
+00:16:30,570 --> 00:16:33,370
+Right I really like to err on the side of
+
+379
+00:16:33,370 --> 00:16:35,610
+every day we wake up in the morning and say
+
+380
+00:16:35,610 --> 00:16:37,720
+based on what I know today
+
+381
+00:16:37,720 --> 00:16:40,760
+what's the best way to get to where we all want to go?
+
+382
+00:16:41,680 --> 00:16:44,060
+I personally or me and you three of us
+
+383
+00:16:44,330 --> 00:16:46,830
+do no have time to read all two millions of source code
+
+384
+00:16:46,830 --> 00:16:49,240
+to see that, there are no remaining problems.
+
+385
+00:16:52,200 --> 00:16:53,560
+We're going over here
+
+386
+00:16:53,560 --> 00:16:55,880
+zeroing in on Jeff Weinstein.
+
+387
+00:16:56,680 --> 00:16:59,020
+With March 31st only days away
+
+388
+00:16:59,020 --> 00:17:01,790
+the team can't proceed until Jeff Weinstein
+
+389
+00:17:01,790 --> 00:17:04,890
+an expert on some of Netscapes most arcane code
+
+390
+00:17:04,890 --> 00:17:07,690
+finds time to complete the bug fixes on his list.
+
+391
+00:17:07,690 --> 00:17:07,840
+How are you doing ?
+finds time to complete the bug fixes on his list.
+
+392
+00:17:07,840 --> 00:17:08,600
+How are you doing ?
+
+393
+00:17:08,600 --> 00:17:09,370
+OK
+
+394
+00:17:09,720 --> 00:17:10,600
+Alright well
+
+395
+00:17:10,600 --> 00:17:12,280
+you are officially the most doomed
+
+396
+00:17:12,280 --> 00:17:14,280
+individual in the company sir
+
+397
+00:17:18,430 --> 00:17:21,480
+this one I can close, stay with this one
+
+398
+00:17:21,480 --> 00:17:23,480
+yeah bunch of these
+
+399
+00:17:23,480 --> 00:17:26,110
+Urn hopefully I'll get most of it done tonight
+
+400
+00:17:26,110 --> 00:17:28,040
+His goal he was just going to stay all night
+
+401
+00:17:28,040 --> 00:17:29,440
+and he was going to get it all done.
+
+402
+00:17:29,440 --> 00:17:31,660
+The good news is actually I think by about
+
+403
+00:17:31,930 --> 00:17:34,110
+I'm not sure if it was 9 or 11 o'clock at night
+
+404
+00:17:34,110 --> 00:17:36,110
+he actually was completely done.
+
+405
+00:17:38,520 --> 00:17:40,200
+Yeah !
+
+406
+00:17:40,200 --> 00:17:41,680
+Reaching a critical milestone
+
+407
+00:17:41,680 --> 00:17:43,720
+is cause for celebration.
+
+408
+00:17:46,990 --> 00:17:49,100
+And one bug left
+
+409
+00:17:49,100 --> 00:17:51,070
+and it's a really really hard one
+
+410
+00:17:51,070 --> 00:17:53,280
+Don't make me kill you, close 4330.
+
+411
+00:17:53,280 --> 00:17:54,920
+I will close 4330.
+
+412
+00:17:56,240 --> 00:17:57,630
+Bug count is small
+
+413
+00:17:57,800 --> 00:18:00,000
+there are some bugs that are not currently closed
+
+414
+00:18:00,000 --> 00:18:02,480
+but most of them are like piddly little annoying things that
+
+415
+00:18:02,480 --> 00:18:03,580
+Some of its stuck !
+
+416
+00:18:09,000 --> 00:18:12,760
+All praise the uh the mighty ones that created tremendous pile of
+
+417
+00:18:12,760 --> 00:18:16,200
+people working really hard this week to do the impossible.
+
+418
+00:18:18,410 --> 00:18:20,880
+There is this magic phrase that Michael Toy invented
+
+419
+00:18:20,880 --> 00:18:22,880
+which is "Zarro Boogs", hum
+
+420
+00:18:22,880 --> 00:18:24,670
+which is it's not quite perfect
+
+421
+00:18:24,670 --> 00:18:26,000
+but it's perfect enough
+
+422
+00:18:26,000 --> 00:18:27,550
+as zero bugs / "zarro boogs".
+
+423
+00:18:27,740 --> 00:18:30,450
+Do you have a spare monitor upstairs?
+
+424
+00:18:30,500 --> 00:18:32,220
+Yes I do have a spare monitor.
+
+425
+00:18:32,360 --> 00:18:34,140
+This is the first big test
+
+426
+00:18:34,280 --> 00:18:37,680
+Will an outsider actually be able to make mozilla work?
+
+427
+00:18:37,720 --> 00:18:42,090
+If not Netscape stands a good chance of missing its March 31st deadline
+
+428
+00:18:42,300 --> 00:18:43,820
+I thought it's gonna be huge thing,
+
+429
+00:18:43,820 --> 00:18:44,520
+I thought it's gonna be like a hundred,
+
+430
+00:18:44,520 --> 00:18:46,740
+two hundred people here like all and rows
+
+431
+00:18:46,740 --> 00:18:49,530
+like with soviet style.
+
+432
+00:18:49,530 --> 00:18:51,530
+We are near that organized
+
+433
+00:18:53,020 --> 00:18:55,380
+Looks like it's all here, here we go!
+
+434
+00:18:56,390 --> 00:19:00,410
+Wow! All good, it's pretty simple how stuff is built.
+
+435
+00:19:00,410 --> 00:19:03,170
+It's just there's set of scripts that are set up
+
+436
+00:19:03,170 --> 00:19:05,240
+to say exactly what to compile and then
+
+437
+00:19:05,300 --> 00:19:08,250
+they all get globbed together into Mozilla hopefully.
+
+438
+00:19:10,150 --> 00:19:11,710
+- Here it is
+- Yeah
+
+439
+00:19:11,710 --> 00:19:14,720
+If you get it to work, then it means anybody can get it to work.
+
+440
+00:19:14,720 --> 00:19:15,510
+That's true.
+
+441
+00:19:22,890 --> 00:19:28,390
+(WILD CHEERING clapping laughter)
+
+442
+00:19:31,060 --> 00:19:34,350
+- And look It has an about face!
+- ...Look it's so cute...
+
+443
+00:19:35,680 --> 00:19:39,120
+- Oh, that was pretty
+
+444
+00:19:39,120 --> 00:19:41,590
+- Yeah it's...
+- No, I don't think it's working.
+
+445
+00:19:41,620 --> 00:19:44,480
+- Well go to the..
+- Well
+- Oh...
+- Big crash...
+
+446
+00:19:44,480 --> 00:19:46,480
+- Hell shot the foot...
+
+447
+00:19:49,990 --> 00:19:51,090
+It's actually going really well.
+
+448
+00:19:51,090 --> 00:19:52,510
+I didn't think we'd actually get somebody
+
+449
+00:19:52,510 --> 00:19:53,620
+to build this quickly.
+
+450
+00:19:53,620 --> 00:19:56,600
+We had to do one small adjustment and it worked!
+
+451
+00:19:57,700 --> 00:19:59,720
+With the source almost ready to ship,
+
+452
+00:19:59,720 --> 00:20:01,760
+Netscape must explain the significance
+
+453
+00:20:01,760 --> 00:20:03,350
+of Mozilla to the press.
+
+454
+00:20:03,350 --> 00:20:06,470
+Basically what we wanna do is we wanna give them a little bit of the history
+
+455
+00:20:07,320 --> 00:20:11,860
+and then we wanna go into the what's actually going to happen tomorrow.
+
+456
+00:20:11,980 --> 00:20:14,360
+The other important take away then too from this
+
+457
+00:20:14,360 --> 00:20:20,090
+is that this is a really exciting cool thing.
+
+458
+00:20:20,090 --> 00:20:24,800
+- Good afternoon, Forrester
+- Hi Stan Dolberg and uh Eric Brown please.
+
+459
+00:20:24,800 --> 00:20:26,050
+- One second.
+
+460
+00:20:27,840 --> 00:20:31,750
+- You've reached voicemail for Stan Dolberg -- I'll transfer you now
+
+461
+00:20:32,210 --> 00:20:33,910
+- Good afternoon, Forrester.
+
+462
+00:20:33,910 --> 00:20:35,240
+- Hi this is Maggie Young.
+
+463
+00:20:35,240 --> 00:20:37,060
+I'm calling from Netscape and I have scheduled
+
+464
+00:20:37,060 --> 00:20:39,670
+conference call with Stan Dolberg and Eric Brown
+
+465
+00:20:39,670 --> 00:20:41,710
+and I just got Stan's voicemail.
+
+466
+00:20:41,710 --> 00:20:44,950
+Netscape hopes the press will greet Mozilla with the same enthusiasm
+
+467
+00:20:44,950 --> 00:20:48,350
+it had for the company in its early days.
+
+468
+00:20:48,350 --> 00:20:53,380
+At eleven AM this morning, Netscape's stock went public and Wall Street went bonkers.
+
+469
+00:20:53,430 --> 00:20:56,130
+Initially offer had a price of 38 $ a share,
+
+470
+00:20:56,130 --> 00:20:58,400
+Netscape shut up to 72 within minutes...
+
+471
+00:20:58,400 --> 00:21:01,860
+The stock is bid up at extraordinary levels
+
+472
+00:21:01,860 --> 00:21:05,040
+in the first couple of really days and weeks
+
+473
+00:21:05,040 --> 00:21:06,520
+of its introduction.
+
+474
+00:21:06,520 --> 00:21:09,290
+It is the biggest initial public offering
+
+475
+00:21:09,290 --> 00:21:16,150
+in basically the Wall Street history.
+
+476
+00:21:16,150 --> 00:21:17,720
+- Good afternoon, Forrester
+
+477
+00:21:19,000 --> 00:21:20,320
+- Hi this is Josh Walker.
+
+478
+00:21:20,320 --> 00:21:24,080
+Today less than three years after its record breaking IPO however,
+
+479
+00:21:24,080 --> 00:21:27,030
+Netscape's story generates a different response.
+
+480
+00:21:27,030 --> 00:21:28,130
+- Hi there
+- Yup
+
+481
+00:21:28,130 --> 00:21:30,770
+- As you now tomorrow is March 31st
+
+482
+00:21:30,770 --> 00:21:33,810
+- So that means hum, source code will be made
+
+483
+00:21:33,810 --> 00:21:35,810
+available to the developer community.
+
+484
+00:21:35,810 --> 00:21:36,820
+And we thought we would just
+
+485
+00:21:36,820 --> 00:21:38,750
+catch you up to speed and walk you through
+
+486
+00:21:38,750 --> 00:21:41,060
+that and see if you had some questions.
+
+487
+00:21:41,060 --> 00:21:45,590
+- Either I'm braindead or it takes lot of effort to communicate
+
+488
+00:21:45,840 --> 00:21:49,500
+and so I'm concerned that while you all know
+
+489
+00:21:49,500 --> 00:21:53,390
+what it means, I'm not confident
+
+490
+00:21:53,390 --> 00:21:56,840
+that it's coming across to the press.
+
+491
+00:21:56,840 --> 00:21:58,640
+- Right, I think those are good points.
+
+492
+00:21:58,640 --> 00:22:02,340
+By opening up the source code, we basically extend our developer community
+
+493
+00:22:02,340 --> 00:22:04,280
+from those folks that are inside of Netscape
+
+494
+00:22:04,280 --> 00:22:05,820
+to hundreds and thousands of developers
+
+495
+00:22:05,820 --> 00:22:06,870
+outside of Netscape
+
+496
+00:22:06,870 --> 00:22:09,730
+so it's no longer Netscape versus Microsoft.
+
+497
+00:22:09,730 --> 00:22:12,120
+It's Netscape and all of the Netscape,
+
+498
+00:22:12,120 --> 00:22:13,880
+you know, virtual community.
+
+499
+00:22:13,880 --> 00:22:17,310
+- I think there is a belief that Netscape
+
+500
+00:22:17,310 --> 00:22:20,030
+doesn't have a position to continue
+
+501
+00:22:20,030 --> 00:22:21,860
+to compete with Microsoft
+
+502
+00:22:21,860 --> 00:22:24,520
+in the browser front and that
+
+503
+00:22:24,520 --> 00:22:27,840
+in essence you've given up on the browser position.
+
+504
+00:22:32,060 --> 00:22:35,500
+This was a lot more smooth than I had originally anticipated.
+
+505
+00:22:35,500 --> 00:22:36,230
+Really.
+
+506
+00:22:38,270 --> 00:22:40,720
+I'm still waiting for the major bump in the road
+
+507
+00:22:40,720 --> 00:22:42,340
+that's gonna happen some time between now
+
+508
+00:22:42,340 --> 00:22:43,560
+and tomorrow afternoon.
+
+509
+00:22:43,560 --> 00:22:45,140
+In software development there is
+
+510
+00:22:45,140 --> 00:22:46,580
+always a bump in the road.
+
+511
+00:22:46,580 --> 00:22:48,580
+We just want to hear the Apple story
+
+512
+00:22:48,580 --> 00:22:53,940
+They just can't quite get themselves comfortable
+
+513
+00:22:53,940 --> 00:22:55,980
+with the patent grant or with
+
+514
+00:22:55,980 --> 00:22:58,340
+whatever we tried to do to fix it for them.
+
+515
+00:22:58,340 --> 00:23:01,430
+So the last thing back out of their lawyer was
+
+516
+00:23:01,430 --> 00:23:04,260
+"gee, oh I don't know that we get enough protection."
+
+517
+00:23:04,260 --> 00:23:09,090
+Mozilla has a small piece of code from Apple that has not been cleared for public license.
+
+518
+00:23:09,170 --> 00:23:11,020
+- Ok.
+- We have to escalate.
+
+519
+00:23:11,770 --> 00:23:13,460
+- Hi this is Mark Andreeson,
+
+520
+00:23:13,460 --> 00:23:16,440
+I called a few minutes ago, and left message
+
+521
+00:23:16,440 --> 00:23:18,660
+we're trying to get - the problem is I can't get phone
+
+522
+00:23:18,660 --> 00:23:19,920
+there's no one at the Apple switchboard
+
+523
+00:23:19,920 --> 00:23:21,920
+so I'm having a hard time getting phone numbers for people.
+
+524
+00:23:21,920 --> 00:23:22,860
+Awesome.
+
+525
+00:23:24,740 --> 00:23:26,260
+Hold on, 6 2 0.
+
+526
+00:23:35,030 --> 00:23:37,300
+In order to ship Mozilla the next morning,
+
+527
+00:23:37,300 --> 00:23:39,110
+Scott Collins is called in
+
+528
+00:23:39,110 --> 00:23:41,370
+to replace Apple's code with his own invention.
+
+529
+00:23:41,370 --> 00:23:43,880
+And theoretically we believe this is possible.
+
+530
+00:23:43,880 --> 00:23:47,340
+It's my last bug. When I complete this bug,
+
+531
+00:23:47,340 --> 00:23:50,900
+I will be allowed to rest.
+
+532
+00:23:50,900 --> 00:23:53,760
+So I stayed up until about 5:40,
+
+533
+00:23:53,760 --> 00:23:56,730
+this morning writing this replacement class.
+
+534
+00:23:56,730 --> 00:23:59,370
+It made my life a living hell.
+
+535
+00:23:59,370 --> 00:24:01,390
+I got it basically running, it's all running,
+
+536
+00:24:01,390 --> 00:24:03,290
+it's all really good, and thank heavens
+
+537
+00:24:03,290 --> 00:24:04,940
+we got permission from Apple
+
+538
+00:24:04,940 --> 00:24:06,300
+to ship the regular source.
+
+539
+00:24:06,300 --> 00:24:08,230
+It's my understanding that Jamie
+
+540
+00:24:08,230 --> 00:24:10,720
+is gonna be the person that's gonna be pushing
+
+541
+00:24:10,720 --> 00:24:13,390
+the bits up to the website at around 10:00,
+
+542
+00:24:13,390 --> 00:24:14,660
+is that correct?
+
+543
+00:24:14,660 --> 00:24:15,750
+OK.
+
+544
+00:24:15,750 --> 00:24:18,130
+And we're gonna be staging some different
+
+545
+00:24:18,130 --> 00:24:20,580
+photo opportunities for the press at that time,
+
+546
+00:24:20,580 --> 00:24:23,150
+there will be television cameras you know news crews
+
+547
+00:24:23,150 --> 00:24:25,870
+- Couldn't we just like hire actors to do this for us?
+
+548
+00:24:25,870 --> 00:24:30,990
+- ...just tell them they get to be on TV come on..
+- We're not gonna mandate it..
+
+549
+00:24:30,990 --> 00:24:33,760
+- You're on TV right now.
+- We've been on TV for two months.
+
+550
+00:24:33,760 --> 00:24:37,240
+- I don't think anyone is gonna come.
+
+551
+00:24:42,360 --> 00:24:44,320
+One way to learn to run marathon
+
+552
+00:24:44,320 --> 00:24:47,610
+is put a person out 26 miles into the desert,
+
+553
+00:24:47,610 --> 00:24:49,970
+and say there's this bomb on your back
+
+554
+00:24:49,970 --> 00:24:51,750
+that's gonna go off in a certain length of time
+
+555
+00:24:51,750 --> 00:24:53,190
+if you don't get into the town.
+
+556
+00:24:53,190 --> 00:24:55,220
+Well, that'll motivate you to get in
+
+557
+00:24:55,220 --> 00:24:57,310
+but there is a certain chance that you'll be blown up.
+
+558
+00:24:57,310 --> 00:25:00,830
+- You know what time it is?
+- Yeah it's five to ten.
+
+559
+00:25:00,830 --> 00:25:04,110
+- Aah! Going to be late. Hurry up!
+
+560
+00:25:04,110 --> 00:25:05,940
+Welcome everybody to the conference call.
+
+561
+00:25:05,940 --> 00:25:07,630
+Thanks for joining us this morning.
+
+562
+00:25:07,630 --> 00:25:09,630
+Today Netscape announced that
+
+563
+00:25:09,630 --> 00:25:12,470
+the first developer release of its Communicator 5.0
+
+564
+00:25:12,470 --> 00:25:14,910
+source code is available for download
+
+565
+00:25:14,910 --> 00:25:17,120
+from the Mozilla dot org website.
+
+566
+00:25:19,220 --> 00:25:21,090
+- You know where Tara is?
+
+567
+00:25:21,090 --> 00:25:22,850
+- Second floor?
+
+568
+00:25:22,850 --> 00:25:25,480
+- It's first floor, way on the other side.
+
+569
+00:25:25,480 --> 00:25:27,170
+And then today on the end of March,
+
+570
+00:25:27,170 --> 00:25:29,440
+as we announced, we are pushing the code
+
+571
+00:25:29,440 --> 00:25:30,600
+out to the Web as they say,
+
+572
+00:25:30,600 --> 00:25:32,050
+and we are delighted to be part of it
+
+573
+00:25:32,050 --> 00:25:33,790
+and we're very excited to see what happens.
+
+574
+00:25:33,790 --> 00:25:36,250
+The good news is the marathoner is now
+
+575
+00:25:36,250 --> 00:25:38,120
+coming into town with that bomb on his back
+
+576
+00:25:38,120 --> 00:25:39,370
+and it looks like he's gonna make it.
+
+577
+00:25:43,950 --> 00:25:45,670
+- This is the moment of truth!
+
+578
+00:25:46,400 --> 00:25:48,560
+They don't have theoretical framework
+
+579
+00:25:48,560 --> 00:25:50,630
+to write software, they're just writing it.
+
+580
+00:25:55,320 --> 00:25:56,960
+It's just like hitting the baseball.
+
+581
+00:25:56,960 --> 00:25:59,910
+If their code gets a home run,
+
+582
+00:25:59,910 --> 00:26:01,490
+nobody's asking questions.
+
+583
+00:26:01,490 --> 00:26:02,920
+Well, this doesn't make sense,
+
+584
+00:26:02,920 --> 00:26:04,450
+or why do you that, why does it work.
+
+585
+00:26:04,450 --> 00:26:05,810
+Nobody cares why it works.
+
+586
+00:26:17,490 --> 00:26:20,850
+- Wait this is bad.
+- What's that?
+
+587
+00:26:21,010 --> 00:26:25,730
+- Well it's not connecting to...
+- The machine that controls
+
+588
+00:26:25,730 --> 00:26:28,280
+the FTP push is, like, not answering.
+
+589
+00:26:28,280 --> 00:26:30,540
+- Is it loaded?
+- It's "blast" not "blash".
+
+590
+00:26:30,710 --> 00:26:33,480
+- Oh
+- Yeah maybe they're...
+
+591
+00:26:37,720 --> 00:26:40,620
+- Mac's there. UNIX is there. Windows is there.
+- We're done!
+
+592
+00:26:40,660 --> 00:26:44,520
+- It's on!
+- Yeah!
+
+593
+00:26:54,510 --> 00:26:58,250
+- Since Jamie is here, I am told that means
+
+594
+00:26:58,250 --> 00:27:00,580
+that we have now pushed the source out on the Net.
+
+595
+00:27:00,580 --> 00:27:01,400
+Is that correct ?
+
+596
+00:27:01,400 --> 00:27:03,020
+- Actually, we decided not to.
+
+597
+00:27:05,680 --> 00:27:07,900
+We thought it was a stupid idea.
+
+598
+00:27:11,020 --> 00:27:12,950
+- That's our story and were sticking to it.
+
+599
+00:27:25,160 --> 00:27:27,530
+For a moment, everyone at Netscape
+
+600
+00:27:27,530 --> 00:27:28,810
+takes a breather.
+
+601
+00:27:28,810 --> 00:27:30,830
+- I think it's gonna work out.
+
+602
+00:27:31,540 --> 00:27:33,660
+In the first hour of its release,
+
+603
+00:27:33,660 --> 00:27:36,530
+the source code is downloaded thousands of times
+
+604
+00:27:36,530 --> 00:27:38,710
+but the number of downloads is no guarantee
+
+605
+00:27:38,710 --> 00:27:41,660
+that Netscape will receive enough valuable contributions
+
+606
+00:27:41,660 --> 00:27:44,130
+to help the company to reverse its slide.
+
+607
+00:27:48,040 --> 00:27:50,400
+He's known as Pavlov to me. He's Pavlov at
+
+608
+00:27:50,400 --> 00:27:53,490
+Pavlov.net, on IRC he's Pavlov or Pav or
+
+609
+00:27:53,490 --> 00:27:57,380
+um, Pav Sleeping, or Pav Tired Up Too Late.
+
+610
+00:27:57,380 --> 00:28:00,550
+And um without him I think we'd be months behind.
+
+611
+00:28:00,550 --> 00:28:03,430
+Netscape's notoriety draws code writers
+
+612
+00:28:03,430 --> 00:28:06,800
+from around the world willing to work on Mozilla without pay.
+
+613
+00:28:06,800 --> 00:28:10,500
+One such contributor comes from rural Georgia.
+
+614
+00:28:12,720 --> 00:28:15,200
+I've been amazed over the last two or three years,
+
+615
+00:28:15,200 --> 00:28:17,420
+when especially his mother would come tell me
+
+616
+00:28:17,420 --> 00:28:19,680
+"Well, so and so called" from maybe New York
+
+617
+00:28:19,680 --> 00:28:21,100
+and they were coming to Atlanta
+
+618
+00:28:21,100 --> 00:28:22,990
+and they wanted to talk to Stuart or see him,
+
+619
+00:28:22,990 --> 00:28:24,740
+and they were gonna go down and have lunch.
+
+620
+00:28:24,740 --> 00:28:26,920
+"Well", I'd say "Who is this person from New York?"
+
+621
+00:28:26,920 --> 00:28:29,670
+And the all of a sudden "Well, he's been working
+
+622
+00:28:29,670 --> 00:28:32,050
+with Stuart on some programming issues
+
+623
+00:28:32,050 --> 00:28:34,270
+for a year or so and he wanted to come down
+
+624
+00:28:34,270 --> 00:28:37,740
+and meet. "Well, did you tell him you're only sixteen?"
+
+625
+00:28:37,740 --> 00:28:41,080
+I had no idea. Um, and that's great,
+
+626
+00:28:41,080 --> 00:28:43,040
+that's a wonderful thing because
+
+627
+00:28:43,040 --> 00:28:47,610
+he's contributing. It doesn't matter that he's young.
+
+628
+00:28:47,610 --> 00:28:51,010
+The place we call the cave. We just shut the door
+
+629
+00:28:51,010 --> 00:28:55,150
+and this is where he does whatever he does.
+
+630
+00:28:55,150 --> 00:28:58,820
+It is flabbergasting to think that your child
+
+631
+00:28:58,820 --> 00:29:03,780
+has done something for this worldwide company
+
+632
+00:29:03,780 --> 00:29:05,110
+instead of his homework.
+
+633
+00:29:05,110 --> 00:29:08,320
+I went and looked back at the older code
+
+634
+00:29:08,320 --> 00:29:11,210
+and I was really frightened by how
+
+635
+00:29:11,210 --> 00:29:14,100
+incredibly messy and just awful the code looked.
+
+636
+00:29:14,100 --> 00:29:15,980
+It would have taken you know
+
+637
+00:29:15,980 --> 00:29:18,270
+years to try and figure out what it was doing.
+
+638
+00:29:18,270 --> 00:29:21,260
+So we basically did it from scratch.
+
+639
+00:29:21,980 --> 00:29:24,380
+Pretty much I'm providing the code that makes
+
+640
+00:29:24,380 --> 00:29:26,590
+the browser show everything faster
+
+641
+00:29:26,590 --> 00:29:29,200
+and more efficiently than it used to.
+
+642
+00:29:29,200 --> 00:29:33,010
+His keyboarding is almost just like talking.
+
+643
+00:29:33,010 --> 00:29:36,120
+It's just um, an expression.
+
+644
+00:29:36,120 --> 00:29:38,630
+He can express himself that way
+
+645
+00:29:38,630 --> 00:29:42,830
+and it's just totally unconscious, almost.
+
+646
+00:29:42,830 --> 00:29:45,880
+Just a part of how he communicates.
+
+647
+00:29:46,680 --> 00:29:49,630
+In the past, free code contributions
+
+648
+00:29:49,630 --> 00:29:51,220
+helped build the Internet.
+
+649
+00:29:51,220 --> 00:29:53,150
+How commercial enterprise would benefit
+
+650
+00:29:53,150 --> 00:29:55,740
+from free code remains a big question.
+
+651
+00:29:55,740 --> 00:29:57,660
+Well, it's certainly my hope that
+
+652
+00:29:57,660 --> 00:30:00,760
+the enormous amount of new people
+
+653
+00:30:00,760 --> 00:30:02,120
+that no one company could afford
+
+654
+00:30:02,120 --> 00:30:03,940
+to have working on any product,
+
+655
+00:30:03,940 --> 00:30:06,660
+now contributing to the Netscape Navigator
+
+656
+00:30:06,660 --> 00:30:09,570
+Communicator will make a significant difference
+
+657
+00:30:09,570 --> 00:30:11,280
+in the improvement of the product.
+
+658
+00:30:11,280 --> 00:30:14,720
+How that works against any competitor,
+
+659
+00:30:14,720 --> 00:30:16,250
+remains to be seen.
+
+660
+00:30:25,980 --> 00:30:27,770
+-Good morning
+-Good morning, Thank you.
+
+661
+00:30:27,770 --> 00:30:31,060
+David Readerman an analyst for San Francisco Investment Bank,
+
+662
+00:30:31,060 --> 00:30:33,560
+closely monitors Netscape's radical plan
+
+663
+00:30:33,560 --> 00:30:35,320
+for investors eager to participate
+
+664
+00:30:35,320 --> 00:30:37,050
+in the Internet stock boom.
+
+665
+00:30:38,130 --> 00:30:40,430
+The market is really kind of a voting machine,
+
+666
+00:30:40,430 --> 00:30:43,210
+it's voting yes I believe that vision statement.
+
+667
+00:30:43,210 --> 00:30:46,500
+Yes I believe that's gonna result in products sales.
+
+668
+00:30:46,500 --> 00:30:48,710
+Yes that's going to drive earnings up, and
+
+669
+00:30:48,710 --> 00:30:50,710
+you know stocks should traded accordingly.
+
+670
+00:30:51,150 --> 00:30:53,250
+The financial benefits to Netscape of
+
+671
+00:30:53,250 --> 00:30:55,950
+giving away its source code are hard to measure.
+
+672
+00:30:55,950 --> 00:30:58,390
+I understand why Netscape's trying to do it.
+
+673
+00:30:58,390 --> 00:31:02,270
+They still have to show me that
+
+674
+00:31:02,270 --> 00:31:04,690
+behind the vision and the slideware,
+
+675
+00:31:04,690 --> 00:31:08,460
+there's a real sustainable business model
+
+676
+00:31:08,460 --> 00:31:11,130
+that can deliver earnings hum,
+
+677
+00:31:11,130 --> 00:31:14,560
+and so I'm in show-me mode for Netscape.
+
+678
+00:31:20,580 --> 00:31:22,930
+Now, my job will be three times
+
+679
+00:31:22,930 --> 00:31:25,880
+as hard as it was yesterday and it was already ten times harder than it needed to be.
+
+680
+00:31:25,880 --> 00:31:29,060
+Right? Did I just work really hard to ship
+
+681
+00:31:29,060 --> 00:31:31,130
+the company jewels out of the building and
+
+682
+00:31:31,130 --> 00:31:33,200
+it's just gonna end in us dying
+
+683
+00:31:33,200 --> 00:31:35,530
+and rolling in poison and misery.
+
+684
+00:31:35,530 --> 00:31:37,460
+The day after this stuff goes out,
+
+685
+00:31:37,460 --> 00:31:38,590
+you really don't get to let up.
+
+686
+00:31:38,590 --> 00:31:41,150
+There is then the sort of day in day out,
+
+687
+00:31:41,150 --> 00:31:45,090
+go to work turn on the computer, code, code code.
+
+688
+00:31:45,090 --> 00:31:46,940
+- Thanks Tara.
+
+689
+00:31:49,460 --> 00:31:50,540
+- Tara?
+
+690
+00:31:50,680 --> 00:31:52,950
+ - Yeah what's your doctor say Tara?
+
+691
+00:31:52,950 --> 00:31:55,820
+- Uh, my doctor says interestingly enough
+
+692
+00:31:55,820 --> 00:31:59,820
+that I work too much
+
+693
+00:31:59,820 --> 00:32:02,260
+and uh, that if I went to work today after
+
+694
+00:32:02,260 --> 00:32:04,470
+my appointment he would personally kill me.
+
+695
+00:32:04,470 --> 00:32:07,760
+I have an agreement with myself
+
+696
+00:32:07,760 --> 00:32:10,030
+that by the time I'm 35, I'm either going
+
+697
+00:32:10,030 --> 00:32:11,850
+to be high school teacher or bartender,
+
+698
+00:32:11,850 --> 00:32:13,950
+but something, anything other than a
+
+699
+00:32:13,950 --> 00:32:16,080
+in a position in the hightech industry,
+
+700
+00:32:16,080 --> 00:32:18,120
+otherwise I'll probably die by the time I'm 40.
+
+701
+00:32:25,730 --> 00:32:27,460
+Uh, now that I'm an old guy
+
+702
+00:32:27,460 --> 00:32:28,590
+I've kind of been round the block
+
+703
+00:32:28,590 --> 00:32:32,850
+couple times and you can go from realizing,
+
+704
+00:32:32,850 --> 00:32:34,490
+"This just never stops, does it?"
+
+705
+00:32:34,490 --> 00:32:37,220
+And that being really depressing
+
+706
+00:32:37,220 --> 00:32:38,920
+because you feel like it "I'm on, I'm on".
+
+707
+00:32:38,920 --> 00:32:40,680
+I said I was never going to be on the treadmill
+
+708
+00:32:40,680 --> 00:32:42,610
+and here I am. I'm on the treadmill.
+
+709
+00:32:42,610 --> 00:32:44,850
+I'm going to be running like this forever.
+
+710
+00:32:44,850 --> 00:32:46,980
+Because they're good at software,
+
+711
+00:32:46,980 --> 00:32:48,940
+they need to keep pace.
+
+712
+00:32:48,940 --> 00:32:51,060
+And as a result, keeping pace means
+
+713
+00:32:51,060 --> 00:32:53,900
+to shut a lot of other things out.
+
+714
+00:32:53,900 --> 00:32:55,600
+They just don't have time to read,
+
+715
+00:32:55,600 --> 00:32:57,140
+time to hear about the world.
+
+716
+00:32:57,140 --> 00:32:59,090
+They don't have much time for their families.
+
+717
+00:32:59,090 --> 00:33:00,830
+Um, but when you're in situation where
+
+718
+00:33:00,830 --> 00:33:02,810
+you really have a lot of work to do
+
+719
+00:33:02,810 --> 00:33:04,090
+and no time to do it,
+
+720
+00:33:05,020 --> 00:33:07,040
+you know, you pick what you want.
+
+721
+00:33:07,040 --> 00:33:08,770
+Some people pick wanting to have a family.
+
+722
+00:33:08,770 --> 00:33:10,020
+Some people pick wanting to
+
+723
+00:33:10,020 --> 00:33:12,400
+get some software done.
+
+724
+00:33:12,400 --> 00:33:16,800
+Christopher was born right after I started at Netscape,
+
+725
+00:33:16,800 --> 00:33:19,350
+and I basically missed the first
+
+726
+00:33:19,350 --> 00:33:21,710
+two years of his life because of the intensity.
+
+727
+00:33:21,710 --> 00:33:23,530
+I'd work 'til about 7 or 8 o'clock,
+
+728
+00:33:23,530 --> 00:33:25,280
+come home, eat dinner,
+
+729
+00:33:25,280 --> 00:33:28,520
+put the kids to bed, and then go back to work,
+
+730
+00:33:28,520 --> 00:33:30,390
+or work from home, until 2 or 3
+
+731
+00:33:30,390 --> 00:33:32,580
+in the morning, and was like the Dad zombie.
+
+732
+00:33:32,580 --> 00:33:35,160
+He would call and say, I'm on my way home
+
+733
+00:33:35,160 --> 00:33:37,030
+and then it would be 2 or 3 hours and
+
+734
+00:33:37,030 --> 00:33:39,300
+you know, the romantic dinner candles
+
+735
+00:33:39,300 --> 00:33:40,100
+had burned down
+
+736
+00:33:40,100 --> 00:33:41,690
+and I was thinking he was dead
+
+737
+00:33:41,690 --> 00:33:43,020
+by the side of the road so,
+
+738
+00:33:43,020 --> 00:33:45,150
+you know if 24 hours goes by
+
+739
+00:33:45,150 --> 00:33:47,110
+and I don't hear from him,
+
+740
+00:33:47,110 --> 00:33:50,450
+that I pretty much know where to find him.
+
+741
+00:33:50,450 --> 00:33:53,090
+I live in Michigan. And I commute.
+
+742
+00:33:53,090 --> 00:33:55,530
+So it's quite a long commute,
+
+743
+00:33:55,530 --> 00:33:57,230
+I don't make it every day.
+
+744
+00:33:57,230 --> 00:33:59,500
+I only make it about every two weeks or so.
+
+745
+00:33:59,500 --> 00:34:03,480
+But um, It is quite a time change.
+
+746
+00:34:03,480 --> 00:34:06,290
+Here it's something like 12:01
+
+747
+00:34:06,290 --> 00:34:09,320
+in the morning, and there it's 1954.
+
+748
+00:34:15,710 --> 00:34:18,430
+The motivation from moving back here is
+
+749
+00:34:18,430 --> 00:34:21,130
+I wanted to get into a community,
+
+750
+00:34:21,130 --> 00:34:25,210
+put roots down, and you know, feel settled.
+
+751
+00:34:25,210 --> 00:34:28,900
+And I...Life is just different out there,
+
+752
+00:34:28,900 --> 00:34:31,970
+it really is. I mean here people like worked
+
+753
+00:34:31,970 --> 00:34:36,000
+car factory or whatever... thirty years and out.
+
+754
+00:34:38,950 --> 00:34:42,010
+We spent, like, 45 minutes talking about all his
+
+755
+00:34:42,010 --> 00:34:44,900
+like, his whole story, from job, to job, to job, to job.
+
+756
+00:34:44,900 --> 00:34:46,210
+I thought it was pretty cool.
+
+757
+00:34:47,710 --> 00:34:53,330
+He had like ten or something, jobs.
+
+758
+00:34:53,590 --> 00:34:56,770
+He seemed to do it a lot during particularly peak
+
+759
+00:34:56,770 --> 00:34:59,490
+stressful times, like, you know, baby due
+
+760
+00:34:59,490 --> 00:35:01,450
+in two months, I'm changing jobs now, dear.
+
+761
+00:35:01,450 --> 00:35:03,210
+I like when everything is changing.
+
+762
+00:35:03,210 --> 00:35:05,960
+That makes it's exciting. That's why I do it.
+
+763
+00:35:05,960 --> 00:35:08,120
+It's something to be in the storm,
+
+764
+00:35:08,120 --> 00:35:11,410
+right in the middle of it and seeing everything
+
+765
+00:35:11,410 --> 00:35:13,390
+new happening and putting it all together.
+
+766
+00:35:13,390 --> 00:35:14,190
+It's really exciting.
+
+767
+00:35:14,190 --> 00:35:18,080
+It's almost addictive. I wouldn't want to leave it,
+
+768
+00:35:18,080 --> 00:35:20,060
+that's for sure.
+
+769
+00:35:20,060 --> 00:35:22,190
+At times, it's a clear sacrifice
+
+770
+00:35:22,190 --> 00:35:23,520
+of elements of your personal life.
+
+771
+00:35:26,110 --> 00:35:28,210
+I have to work very hard but I have
+
+772
+00:35:28,210 --> 00:35:30,760
+the chance of being rewarded for my efforts.
+
+773
+00:35:30,760 --> 00:35:33,090
+This disadvantage, my life's moving on.
+
+774
+00:35:33,090 --> 00:35:34,930
+I don't have any children yet,
+
+775
+00:35:34,930 --> 00:35:36,380
+you realize there's a certain amount of
+
+776
+00:35:36,380 --> 00:35:39,160
+my life that I'm sacrificing I'm going to look back
+
+777
+00:35:39,160 --> 00:35:41,030
+and a portion of this life is gone.
+
+778
+00:35:43,100 --> 00:35:46,280
+In the U.S., we have at least several million people
+
+779
+00:35:46,280 --> 00:35:49,060
+directly making a living from software.
+
+780
+00:35:49,060 --> 00:35:51,020
+And it's the fastest growing group of
+
+781
+00:35:51,020 --> 00:35:52,440
+people in the economy.
+
+782
+00:35:52,440 --> 00:35:55,250
+And it's certainly in aggregate,
+
+783
+00:35:55,250 --> 00:35:57,830
+the highest paying field of its size.
+
+784
+00:35:57,830 --> 00:35:59,640
+I mean yeah, you've got baseball,
+
+785
+00:35:59,640 --> 00:36:00,950
+you've got Hollywood.
+
+786
+00:36:00,950 --> 00:36:02,940
+But you know when you really
+
+787
+00:36:02,940 --> 00:36:05,150
+think of a group that has millions of people in it,
+
+788
+00:36:05,150 --> 00:36:06,850
+these are the highest wages anybody
+
+789
+00:36:06,850 --> 00:36:08,330
+has ever seen in the United States.
+
+790
+00:36:14,340 --> 00:36:16,730
+The opportunity to win big
+
+791
+00:36:16,730 --> 00:36:19,790
+for code writers is very real.
+
+792
+00:36:19,790 --> 00:36:23,650
+In fact, that if you will jackpot
+
+793
+00:36:23,650 --> 00:36:26,230
+opportunity is reflected here on a
+
+794
+00:36:26,230 --> 00:36:27,790
+Wall Street trading desk.
+
+795
+00:36:27,790 --> 00:36:31,080
+And I find that a lot of the engineers
+
+796
+00:36:31,080 --> 00:36:33,410
+and managers from Silicon Valley
+
+797
+00:36:33,410 --> 00:36:35,510
+are very attuned to what goes on
+
+798
+00:36:35,510 --> 00:36:38,460
+on these trading floors daily.
+
+799
+00:36:38,460 --> 00:36:42,090
+By one account, 64 millionaires are created daily
+
+800
+00:36:42,090 --> 00:36:44,700
+in Sillicon Valley where any technology worker
+
+801
+00:36:44,700 --> 00:36:46,860
+can fix me rich over night.
+
+802
+00:36:46,860 --> 00:36:49,020
+You join a company and they give you
+
+803
+00:36:49,020 --> 00:36:51,320
+some stock options which basically says,
+
+804
+00:36:51,320 --> 00:36:53,610
+rather than just giving you stock,
+
+805
+00:36:53,610 --> 00:36:55,260
+they give the right to buy the stock
+
+806
+00:36:55,260 --> 00:36:57,870
+in the future at the current price.
+
+807
+00:36:57,870 --> 00:37:03,010
+You might get stock in the order of
+
+808
+00:37:03,010 --> 00:37:05,360
+maybe a year's salary or
+
+809
+00:37:05,360 --> 00:37:07,800
+two years salary typically, worth of options.
+
+810
+00:37:07,800 --> 00:37:10,920
+In some of these real booming companies
+
+811
+00:37:10,920 --> 00:37:12,970
+out there on the Internet, the potential for
+
+812
+00:37:12,970 --> 00:37:14,780
+becoming a millionaire or doing very well,
+
+813
+00:37:14,780 --> 00:37:15,800
+is very, very high.
+
+814
+00:37:15,800 --> 00:37:17,340
+The people who were very,
+
+815
+00:37:17,340 --> 00:37:19,660
+very early, they call them "Mozillionaires".
+
+816
+00:37:19,660 --> 00:37:21,220
+Stock options are a con.
+
+817
+00:37:21,220 --> 00:37:24,090
+Um, it's a carrot they dangle, it's like,
+
+818
+00:37:24,090 --> 00:37:25,450
+oh well, you know if you'll give up
+
+819
+00:37:25,450 --> 00:37:26,500
+your one and only youth,
+
+820
+00:37:26,500 --> 00:37:29,080
+maybe someday you'll make money, right...
+
+821
+00:37:29,080 --> 00:37:31,470
+it's um, I've known so many people
+
+822
+00:37:31,470 --> 00:37:33,740
+who have gambled on start-up lottery
+
+823
+00:37:33,740 --> 00:37:34,970
+and got nothing.
+
+824
+00:37:34,970 --> 00:37:37,940
+You know it's just like lottery ticket, it's stupid tax.
+
+825
+00:37:37,940 --> 00:37:41,960
+Um, I happened to win that particular lottery.
+
+826
+00:37:41,960 --> 00:37:43,890
+From the day Microsoft announced
+
+827
+00:37:43,890 --> 00:37:46,330
+its aggressive commitment to the Internet, however,
+
+828
+00:37:46,330 --> 00:37:49,030
+Netscape stock has been in steady decline,
+
+829
+00:37:49,030 --> 00:37:51,610
+and throughout most of 1998 Netscape
+
+830
+00:37:51,610 --> 00:37:54,360
+options are essentially worthless.
+
+831
+00:37:54,360 --> 00:37:55,530
+A year and a half ago,
+
+832
+00:37:55,530 --> 00:37:57,630
+half of our revenue came from browser sales.
+
+833
+00:37:57,630 --> 00:37:59,160
+Today none of it does, so well,
+
+834
+00:37:59,160 --> 00:38:01,260
+Any business person out there knows
+
+835
+00:38:01,260 --> 00:38:02,340
+that that's a huge challenge.
+
+836
+00:38:02,340 --> 00:38:04,490
+I mean let me take your number one selling product
+
+837
+00:38:04,490 --> 00:38:05,770
+away from you and you replace that
+
+838
+00:38:05,770 --> 00:38:07,020
+within period of 12 months or so.
+
+839
+00:38:07,020 --> 00:38:08,670
+Not many people want to do that.
+
+840
+00:38:08,670 --> 00:38:11,470
+Even though the company sells other Internet products,
+
+841
+00:38:11,470 --> 00:38:14,370
+the marketplace views Netscape as a browser company
+
+842
+00:38:14,370 --> 00:38:16,640
+in a losing battle with Microsoft.
+
+843
+00:38:18,230 --> 00:38:22,540
+- Greg this is Jim Barksdale with Netscape Communications, how are you ?
+
+844
+00:38:22,880 --> 00:38:24,980
+It's clear that Netscape doesn't have
+
+845
+00:38:24,980 --> 00:38:27,730
+enough pieces to threaten Microsoft.
+
+846
+00:38:27,730 --> 00:38:30,660
+I don't think that Netscape long term
+
+847
+00:38:30,660 --> 00:38:33,320
+can survive as an independent company.
+
+848
+00:38:36,590 --> 00:38:39,280
+While Mozilla tries to recapture the early,
+
+849
+00:38:39,280 --> 00:38:41,610
+glory days of the company,
+
+850
+00:38:41,610 --> 00:38:44,050
+integrating code from the outside means
+
+851
+00:38:44,050 --> 00:38:46,490
+more work for everyone on the browser team.
+
+852
+00:38:46,490 --> 00:38:47,910
+- Apparently I must have done it backwards
+
+853
+00:38:47,910 --> 00:38:50,630
+from what you told me, or I don't know what
+
+854
+00:38:50,630 --> 00:38:52,630
+- Ok, this is too fast
+
+855
+00:38:52,630 --> 00:38:54,890
+- We want to take the old free tree
+
+856
+00:38:54,890 --> 00:38:56,620
+and use it as subsection,
+
+857
+00:38:56,620 --> 00:38:59,430
+and we want to build this interesting tree around this.
+
+858
+00:38:59,430 --> 00:39:00,280
+- No that's not want we want to do
+
+859
+00:39:00,280 --> 00:39:01,640
+NS Private fix me at the top, right ?
+
+860
+00:39:01,640 --> 00:39:04,050
+- A project file for this or project file for that,
+
+861
+00:39:04,050 --> 00:39:05,500
+it can't be a project file for both.
+
+862
+00:39:05,500 --> 00:39:07,940
+We don't have a plan for doing both.
+
+863
+00:39:07,940 --> 00:39:10,100
+So right now I have some files that have
+
+864
+00:39:10,100 --> 00:39:12,200
+to come from here for Java in single directory,
+
+865
+00:39:12,200 --> 00:39:13,330
+and some files that have to come from here
+
+866
+00:39:13,330 --> 00:39:14,300
+in the same directory, the same directory.
+
+867
+00:39:15,490 --> 00:39:16,300
+Tell me how I do that?
+
+868
+00:39:19,970 --> 00:39:21,390
+That's the problem.
+
+869
+00:39:21,390 --> 00:39:23,720
+The browser division which costs the company
+
+870
+00:39:23,720 --> 00:39:26,240
+almost 30 million dollars a year to operate
+
+871
+00:39:26,240 --> 00:39:28,650
+and contributes few revenues to the company
+
+872
+00:39:28,650 --> 00:39:31,040
+is reorganized in the fall for the second time
+
+873
+00:39:31,040 --> 00:39:32,170
+in less than year.
+
+874
+00:39:32,170 --> 00:39:33,760
+Do we have all the answers: no.
+
+875
+00:39:33,760 --> 00:39:35,460
+We're going to try and learn what we can from
+
+876
+00:39:35,460 --> 00:39:37,200
+seeing the people who've done this well...
+
+877
+00:39:37,200 --> 00:39:40,200
+When I joined a start-up, I knew that 19 out of 20 fail.
+
+878
+00:39:40,460 --> 00:39:41,880
+When an employee comes
+
+879
+00:39:41,880 --> 00:39:43,350
+to work at Netscape today,
+
+880
+00:39:43,350 --> 00:39:44,890
+he doesn't have the perception
+
+881
+00:39:44,890 --> 00:39:46,470
+that there's a 19 out of 20 chance
+
+882
+00:39:46,470 --> 00:39:48,520
+that this job is not gonna be in place
+
+883
+00:39:48,520 --> 00:39:49,990
+1 to 5 years from now.
+
+884
+00:39:52,750 --> 00:39:56,460
+If you live here, it is the ubiquitous conversation
+
+885
+00:39:56,460 --> 00:39:58,310
+"Do you believe that Microsoft
+
+886
+00:39:58,310 --> 00:40:00,210
+has used either a) illegal
+
+887
+00:40:00,260 --> 00:40:02,390
+or just unfair methods
+
+888
+00:40:02,390 --> 00:40:04,630
+to take market share from Netscape?"
+
+889
+00:40:04,630 --> 00:40:07,870
+And if the heart and soul of this industry is
+
+890
+00:40:07,870 --> 00:40:12,070
+opportunity, is egalitarianism, Microsoft having
+
+891
+00:40:12,070 --> 00:40:15,130
+achieved its market share
+
+892
+00:40:15,190 --> 00:40:18,820
+on anything other than the backs of its code
+
+893
+00:40:18,820 --> 00:40:22,170
+really riles every body up.
+
+894
+00:40:22,270 --> 00:40:25,270
+Justice department has charged Microsoft
+
+895
+00:40:25,370 --> 00:40:29,370
+with engaging an anti-competitive and exclusionary practises
+
+896
+00:40:29,470 --> 00:40:34,470
+designed to maintain its monopoly in personal computer operating systems
+
+897
+00:40:34,570 --> 00:40:39,570
+and attempting to extend that monopoly to internet browser software.
+
+898
+00:40:39,670 --> 00:40:42,070
+Regardless of its case against Microsoft,
+
+899
+00:40:42,170 --> 00:40:44,770
+Netscape has become a victim of its increasing size
+
+900
+00:40:44,870 --> 00:40:46,570
+and the growing complexities of its code,
+
+901
+00:40:46,670 --> 00:40:50,070
+the company struggles to maintain the vitality
+
+902
+00:40:50,170 --> 00:40:51,770
+it enjoyed as a start-up.
+
+903
+00:40:51,870 --> 00:40:53,270
+When a company gets to be above a certain size,
+
+904
+00:40:53,370 --> 00:40:57,370
+as - it's just a process, it's a mechanism for making money.
+
+905
+00:40:57,470 --> 00:41:00,470
+And innovation is like one possible way of doing that,
+
+906
+00:41:00,470 --> 00:41:01,570
+but it's a risky way.
+
+907
+00:41:01,670 --> 00:41:02,670
+So companies, big companies don't do that.
+
+908
+00:41:02,770 --> 00:41:06,770
+Um, Microsoft actually doesn't do very much, they buy companies.
+
+909
+00:41:06,870 --> 00:41:09,870
+They wait until someone has done something interesting and then they acquire them,
+
+910
+00:41:09,970 --> 00:41:10,970
+and then they milk it for all it's worth.
+
+911
+00:41:11,070 --> 00:41:15,070
+I don't mean to pick on Microsoft because lots of companies do that, it's just the normal way of doing business.
+
+912
+00:41:25,170 --> 00:41:27,170
+We're on out way to the Flint Center now.
+
+913
+00:41:27,270 --> 00:41:28,270
+We're going to have an all-hands meeting.
+
+914
+00:41:28,370 --> 00:41:32,370
+Jim Barksdale has moved up the all hands meeting by roughly about a week.
+
+915
+00:41:32,370 --> 00:41:35,470
+We just announce quarterly results and now this major change in direction.
+
+916
+00:41:39,000 --> 00:41:43,000
+Well, in case you haven't read the newspaper,
+
+917
+00:41:45,670 --> 00:41:50,670
+we have, as of 1:30 this morning,
+
+918
+00:41:52,770 --> 00:42:01,770
+concluded negotiations and agreed to sell our company to AOL of Dulles, Virginia.
+
+919
+00:42:06,870 --> 00:42:10,270
+I can't imagine that day when they announced the merger,
+
+920
+00:42:10,370 --> 00:42:13,370
+that they weren't like "Oh, I don't believe this".
+
+921
+00:42:13,470 --> 00:42:16,470
+You know, sort of a nightmare scenario.
+
+922
+00:42:16,570 --> 00:42:17,570
+Although, you know, the worst one would have been
+
+923
+00:42:17,770 --> 00:42:19,770
+Microsoft's buying us, I guess.
+
+924
+00:42:19,870 --> 00:42:21,870
+Then they would have, you know you would've seen
+
+925
+00:42:21,970 --> 00:42:23,970
+his flow of cars out of Netscape
+
+926
+00:42:24,070 --> 00:42:27,070
+Six months ago they were insulting AOL's technology,
+
+927
+00:42:27,170 --> 00:42:30,170
+you know, it was the service for idiots.
+
+928
+00:42:30,270 --> 00:42:31,970
+Congratulations skippy, you've got mail!
+
+929
+00:42:32,370 --> 00:42:37,770
+Netscape is not unusual in the way they felt about AOL in Silicon Valley.
+
+930
+00:42:37,870 --> 00:42:38,870
+I mean, it' very clear that nobody
+
+931
+00:42:38,970 --> 00:42:41,970
+had any respect for the company.
+
+932
+00:42:42,070 --> 00:42:43,070
+One of them at Netscape
+
+933
+00:42:43,170 --> 00:42:44,170
+called Steve Case a soap salesman
+
+934
+00:42:44,270 --> 00:42:47,270
+because he used to work at Proctor and Gamble.
+
+935
+00:42:47,370 --> 00:42:49,270
+The soap salesman bought them.
+
+936
+00:42:50,870 --> 00:42:54,370
+The quote that came out of this article was
+
+937
+00:42:54,470 --> 00:42:57,470
+"Netscape: (similar lines of) lived fast,
+
+938
+00:42:57,570 --> 00:42:59,570
+died young, and left a tired corpse".
+
+939
+00:42:59,670 --> 00:43:03,670
+And I don't know if they agree with that.
+
+940
+00:43:03,770 --> 00:43:05,962
+I don't think Netscape's done yet.
+
+941
+00:43:06,062 --> 00:43:07,062
+They bought us because they like us,
+
+942
+00:43:07,162 --> 00:43:08,162
+they like what we do,
+
+943
+00:43:08,262 --> 00:43:10,262
+and they don't want to disturb that formula;
+
+944
+00:43:11,062 --> 00:43:13,962
+so their plan is to not damage us in any way.
+
+945
+00:43:14,462 --> 00:43:15,462
+There had been alot of, uh,
+
+946
+00:43:15,562 --> 00:43:17,562
+a lot of speculation out on the net,
+
+947
+00:43:16,662 --> 00:43:17,662
+you know, in the free software community,
+
+948
+00:43:17,762 --> 00:43:18,762
+like, oh well this is it, you know,
+
+949
+00:43:18,862 --> 00:43:21,862
+it's all over now
+
+950
+00:43:21,962 --> 00:43:22,962
+"AOL's just gonna screw everything up".
+
+951
+00:43:23,062 --> 00:43:24,062
+So I wrote this thing
+
+952
+00:43:24,162 --> 00:43:25,162
+that I put on the Mozilla.org site
+
+953
+00:43:25,262 --> 00:43:27,262
+that just laid out the worst case scenario,
+
+954
+00:43:27,362 --> 00:43:28,362
+like, well okay,
+
+955
+00:43:28,462 --> 00:43:31,462
+even if everything goes wrong
+
+956
+00:43:31,562 --> 00:43:33,562
+it's still not as bad as you're saying it is.
+
+957
+00:43:33,662 --> 00:43:36,662
+Because the nature of what Netscape did
+
+958
+00:43:36,999 --> 00:43:39,999
+meant that the code belongs to the community now.
+
+959
+00:43:40,099 --> 00:43:43,099
+A few days later I got email from Steve Case,
+
+960
+00:43:43,199 --> 00:43:44,199
+saying, um, we thing that you're doing is great thing
+
+961
+00:43:44,299 --> 00:43:46,299
+and it's part of the reason we bought the company
+
+962
+00:43:46,399 --> 00:43:47,399
+we plan to keep it going that way
+
+963
+00:43:47,499 --> 00:43:52,499
+so, um, as far as Mozilla.org and Netscape and AOL's contribution
+
+964
+00:43:52,599 --> 00:43:55,599
+to the open-source movement goes,
+
+965
+00:43:55,699 --> 00:43:56,699
+he says, it's gonna continue...
+
+966
+00:43:58,799 --> 00:44:01,899
+The merger with AOL creates a windfall for shareholders
+
+967
+00:44:01,999 --> 00:44:05,561
+that will give Netscape employees the chance to cash out and move on,
+
+968
+00:44:05,661 --> 00:44:07,361
+causing speculation in the national media
+
+969
+00:44:07,461 --> 00:44:11,761
+about AOL's ability to retain Netscape's key people.
+
+970
+00:44:12,861 --> 00:44:14,261
+And already I hear, you know,
+
+971
+00:44:14,361 --> 00:44:15,361
+that AOL people come at Netscape and say,
+
+972
+00:44:15,461 --> 00:44:16,461
+yeah this is the AOL way.
+
+973
+00:44:16,561 --> 00:44:19,261
+It's not gonna work at Netscape.
+
+974
+00:44:19,361 --> 00:44:23,361
+It's gonna be the Netscape way with help from AOL!
+
+975
+00:44:23,461 --> 00:44:24,987
+I suspect some of them will leave.
+
+976
+00:44:25,087 --> 00:44:26,800
+You know, they don't want to be part of AOL.
+
+977
+00:44:26,900 --> 00:44:29,900
+Some people just like the start-up mentality.
+
+978
+00:44:30,000 --> 00:44:32,000
+And those that want to be part of a juggernaut
+
+979
+00:44:32,100 --> 00:44:34,100
+are going to stay and be part of the juggernaut.
+
+980
+00:44:34,900 --> 00:44:38,300
+I've been at Netscape for 3 and a half years and it feels like forever.
+
+981
+00:44:38,400 --> 00:44:44,400
+And AOL's focus and Netscape's growing focus has been marketing and advertising,
+
+982
+00:44:44,500 --> 00:44:45,000
+all that stuff,
+
+983
+00:44:45,100 --> 00:44:48,000
+and that's not nearly as interesting
+
+984
+00:44:48,100 --> 00:44:50,800
+to someone who's sort of a techno-fetishist.
+
+985
+00:44:50,900 --> 00:44:52,900
+I'm switching jobs and selling my house,
+
+986
+00:44:53,000 --> 00:44:55,000
+I'm moving, switching towns...
+
+987
+00:44:55,100 --> 00:45:00,100
+That's life for start-up land.
+
+988
+00:45:01,200 --> 00:45:03,200
+Sure I'm still young and stupid as I like to put it,
+
+989
+00:45:03,300 --> 00:45:04,300
+so I can get away with stuff like that.
+
+990
+00:45:06,400 --> 00:45:10,400
+Year and a half ago, so Tara comes to me she says
+
+991
+00:45:10,500 --> 00:45:13,800
+"I want to be a manager so bad, that I can taste it".
+
+992
+00:45:13,900 --> 00:45:17,800
+So we finally said alright, you get to be a manager.
+
+993
+00:45:17,900 --> 00:45:21,200
+And like within a week she said
+
+994
+00:45:21,300 --> 00:45:22,300
+"Why did you ever let me do this?"
+
+995
+00:45:25,900 --> 00:45:30,100
+And Tara has turned out to be like one of Netscape's greatest managers.
+
+996
+00:45:30,200 --> 00:45:34,200
+So here is to Tara, release team manager.
+
+997
+00:45:34,300 --> 00:45:37,700
+Tara leaves Netscape for an e-commerce start-up,
+
+998
+00:45:37,800 --> 00:45:38,800
+missing out on a big jump in the value of her stock options
+
+999
+00:45:38,900 --> 00:45:42,500
+in hopes for a bigger pay out at her new company.
+
+1000
+00:45:42,600 --> 00:45:43,600
+
+
+1001
+00:45:53,500 --> 00:45:57,700
+Regardless of how AOL runs the Netscape business,
+
+1002
+00:45:57,800 --> 00:46:00,800
+it's not Netscape anymore - that part's over.
+
+1003
+00:46:00,900 --> 00:46:02,000
+And you know, that's really sad
+
+1004
+00:46:02,100 --> 00:46:03,100
+I wish Netscape could have gone it on their own.
+
+1005
+00:46:03,200 --> 00:46:08,500
+Frustrated by what he perceives as a lack of commitment to open-source development,
+
+1006
+00:46:08,600 --> 00:46:12,600
+Jamie quits Netscape one year to the day he helped to give away Mozilla.
+
+1007
+00:46:12,700 --> 00:46:16,200
+The movie Hackers I think is just a great movie.
+
+1008
+00:46:16,300 --> 00:46:18,000
+I wish our lives were like that,
+
+1009
+00:46:18,100 --> 00:46:20,900
+I wish we were roller skating around in spandex and fighting bad guys,
+
+1010
+00:46:21,000 --> 00:46:26,348
+but you know it's not it's sitting in a room and typing all day.
+
+1011
+00:46:28,948 --> 00:46:31,748
+This is what I was trying to escape, this life.
+
+1012
+00:46:31,900 --> 00:46:33,948
+I knew I did not want to live here.
+
+1013
+00:46:36,048 --> 00:46:38,900
+I've been out here now about four of five years.
+
+1014
+00:46:39,000 --> 00:46:43,500
+This is a nice place. This is escape from the jungle.
+
+1015
+00:46:48,600 --> 00:46:53,600
+Jim Roskind is promoted to Netscape's highest engineering rank.
+
+1016
+00:46:54,700 --> 00:46:56,200
+Last night I was here at four in the morning,
+
+1017
+00:46:56,300 --> 00:46:59,200
+and this isn't even in the middle of a critical push.
+
+1018
+00:46:59,300 --> 00:47:01,300
+But it's almost like an addiction, an adrenaline rush,
+
+1019
+00:47:01,400 --> 00:47:03,900
+a going for perfection, a pushing.
+
+1020
+00:47:04,000 --> 00:47:09,200
+And then as you see the results, you get the feedback to push harder.
+
+1021
+00:47:12,300 --> 00:47:15,300
+You know I really shouldn't comment on this
+
+1022
+00:47:15,400 --> 00:47:16,400
+since I'm just as foolish as everyone else is
+
+1023
+00:47:16,500 --> 00:47:18,500
+but I'll just go ahead and do it while admitting that I'm foolish,
+
+1024
+00:47:18,600 --> 00:47:20,900
+there's just a tremendous quest for material wealth here.
+
+1025
+00:47:21,000 --> 00:47:23,200
+It's like the goldrush all over again.
+
+1026
+00:47:24,100 --> 00:47:26,400
+And this is gonna be the playhouse.
+
+1027
+00:47:26,500 --> 00:47:29,500
+And then this will be like a front porch I think a little flowers and stuff.
+
+1028
+00:47:29,600 --> 00:47:31,100
+So it will be like a cute little house.
+
+1029
+00:47:31,200 --> 00:47:34,800
+I went to Netscape because its main purpose was to generate cash,
+
+1030
+00:47:34,900 --> 00:47:35,900
+based on this internet thing.
+
+1031
+00:47:36,000 --> 00:47:38,800
+It's like what we're gonna do, we're gonna get rich.
+
+1032
+00:47:38,900 --> 00:47:42,100
+It just took a heavy toll on our marriage,
+
+1033
+00:47:42,200 --> 00:47:44,500
+and, if it wasn't for God's grace,
+
+1034
+00:47:44,600 --> 00:47:46,000
+we wouldn't have made it.
+
+1035
+00:47:46,100 --> 00:47:49,100
+??? FIXME BUG 70111
+
+1036
+00:47:50,000 --> 00:47:51,800
+Micheal burned out.
+
+1037
+00:47:51,900 --> 00:47:57,300
+Michel, um, came to a place in his own life where he said the cost is too great,
+
+1038
+00:47:57,400 --> 00:47:58,400
+I'm not gonna do it anymore.
+
+
+894
+00:47:59,770 --> 00:48:02,480
+If people are - would look at this and say oh
+
+895
+00:48:02,480 --> 00:48:04,980
+hey this is a cool thing, I'm gonna start a start-up
+
+896
+00:48:04,980 --> 00:48:06,750
+and get rich quick
+
+897
+00:48:06,750 --> 00:48:08,360
+I would just have to say
+
+898
+00:48:08,360 --> 00:48:09,740
+ you need to count the costs
+
+899
+00:48:09,740 --> 00:48:10,090
+because you can't ever retrieve the time that's lost.
+ you need to count the costs
+
+900
+00:48:10,090 --> 00:48:13,370
+because you can't ever retrieve the time that's lost.
+
+901
+00:48:13,960 --> 00:48:15,270
+Michael Toy
+
+902
+00:48:15,270 --> 00:48:17,100
+Netscape employee number 6
+
+903
+00:48:17,100 --> 00:48:19,300
+achieved his goal of financial independance
+
+904
+00:48:19,300 --> 00:48:22,950
+and retired from Netscape shortly after Mozilla's release.
+
+905
+00:48:29,120 --> 00:48:30,330
+In the Valley,
+
+906
+00:48:30,330 --> 00:48:33,690
+if you've stayed someplace longer than about three years
+
+907
+00:48:33,690 --> 00:48:35,220
+people wonder what's going on?
+
+908
+00:48:35,220 --> 00:48:37,220
+Why can't you get another job, what's wrong with you?
+
+909
+00:48:37,220 --> 00:48:39,220
+If you're a programmer, you pretty much change jobs
+
+910
+00:48:39,220 --> 00:48:41,220
+about every two years or so.
+
+911
+00:48:42,060 --> 00:48:43,220
+It's like ants,
+
+912
+00:48:43,220 --> 00:48:43,880
+worker ants.
+
+913
+00:48:43,880 --> 00:48:45,880
+They send out a group out to do something.
+
+914
+00:48:45,880 --> 00:48:47,660
+As that group approaches
+
+915
+00:48:47,660 --> 00:48:48,970
+the task that they're gonna do
+
+916
+00:48:48,970 --> 00:48:50,970
+some ants leave, more ants come on
+
+917
+00:48:50,970 --> 00:48:53,020
+By the time it gets to the target
+
+918
+00:48:53,020 --> 00:48:54,500
+it could be a totally different set of ants
+
+919
+00:48:54,720 --> 00:48:58,520
+I think as we distribute the set of work that we're doing
+
+920
+00:48:58,520 --> 00:49:00,520
+and more and more, in the Information Age
+
+921
+00:49:01,490 --> 00:49:02,620
+it'll be more like that.
+
+922
+00:49:03,340 --> 00:49:07,110
+Scott Collins continues to commute to Netscape from Michigan.
+
+923
+00:49:11,440 --> 00:49:12,820
+There's lot of pressure right now
+
+924
+00:49:12,820 --> 00:49:14,820
+to complete our product on time.
+
+925
+00:49:15,260 --> 00:49:17,480
+Um, sort of wade in with
+
+926
+00:49:17,710 --> 00:49:21,430
+the ridiculous acrobatics the stock is doing.
+
+927
+00:49:21,750 --> 00:49:23,430
+We were a 20$ company
+
+928
+00:49:23,430 --> 00:49:26,820
+and as of this moment our stock is at 172$.
+
+929
+00:49:27,310 --> 00:49:29,880
+So it's hard to be depressed about the amount of work
+
+930
+00:49:29,880 --> 00:49:31,560
+you have to do when
+
+931
+00:49:31,560 --> 00:49:33,560
+every other cube holds a millionnaire.
+
+932
+00:49:35,460 --> 00:49:38,910
+When the deal with AOL closes in the Spring of 1999
+
+933
+00:49:38,910 --> 00:49:43,130
+the value of Netscape's stock more than doubled since the merger's announcement.
+
+934
+00:49:44,290 --> 00:49:45,820
+Netscape married right.
+
+935
+00:49:46,320 --> 00:49:49,260
+They hitched their fortunes to AOL
+
+936
+00:49:49,260 --> 00:49:51,260
+when the transaction was announced,
+
+937
+00:49:51,380 --> 00:49:54,840
+the implied valuation was about 4.2 billion
+
+938
+00:49:54,980 --> 00:49:56,840
+when transaction was completed,
+
+939
+00:49:57,230 --> 00:50:00,170
+the transaction was valued at 10 billion.
+
+940
+00:50:00,170 --> 00:50:04,340
+So in effect about 5.5 or 6 billion dollars
+
+941
+00:50:04,340 --> 00:50:06,640
+of net worth was created
+
+942
+00:50:06,640 --> 00:50:10,460
+so I think it was the very clever deal-making
+
+943
+00:50:10,460 --> 00:50:13,890
+of Netscape management that kept them in the game
+
+944
+00:50:13,890 --> 00:50:18,560
+much longer and Netscape's shareholders benefited quite considerably.
+
+945
+00:50:19,520 --> 00:50:20,730
+Mo-
+
+946
+00:50:20,780 --> 00:50:21,870
+-zill-
+
+947
+00:50:21,870 --> 00:50:22,950
+-la
+
+948
+00:50:22,950 --> 00:50:24,290
+lives !
+
+949
+00:50:24,290 --> 00:50:26,440
+While many executives sold their stock
+
+950
+00:50:26,440 --> 00:50:28,040
+during Netscape's final year
+
+951
+00:50:28,040 --> 00:50:29,620
+Barksdale bought more
+
+952
+00:50:29,620 --> 00:50:31,890
+and after the merger he swapped his shares
+
+953
+00:50:31,890 --> 00:50:35,000
+for more than half a billion dollars of AOL stock.
+
+954
+00:50:39,100 --> 00:50:40,900
+Another young man comes west
+
+955
+00:50:40,900 --> 00:50:44,210
+to seek his fortune on technology's new frontier.
+
+956
+00:50:44,210 --> 00:50:46,900
+I'm a little bit nervous going into this interview,
+
+957
+00:50:46,900 --> 00:50:50,310
+cause I'm not entirely sure what to expect.
+
+958
+00:50:50,310 --> 00:50:52,180
+It's a long way away
+
+959
+00:50:52,180 --> 00:50:54,060
+Three thousand miles
+
+960
+00:50:54,060 --> 00:50:57,270
+is a long way for your child to be
+
+961
+00:50:57,270 --> 00:51:02,360
+But this is a place where there's a lot going on that
+
+962
+00:51:02,360 --> 00:51:04,410
+he's very interested in and I think
+
+963
+00:51:04,410 --> 00:51:06,410
+has some talents in this area.
+
+964
+00:51:06,410 --> 00:51:09,470
+And I really think that this may be
+
+965
+00:51:10,430 --> 00:51:13,170
+ kind of home for him as far as
+
+966
+00:51:13,170 --> 00:51:15,170
+being able to work with people
+
+967
+00:51:15,170 --> 00:51:17,510
+that he can actually talk to.
+
+968
+00:51:23,270 --> 00:51:24,950
+- Pavlov!
+
+969
+00:51:27,510 --> 00:51:29,390
+- What I want to know is,
+
+970
+00:51:29,510 --> 00:51:30,870
+what you want to do
+
+971
+00:51:30,870 --> 00:51:33,640
+I mean, what your goals are in the next couple of years?
+
+972
+00:51:33,640 --> 00:51:35,040
+- My goal right now
+
+973
+00:51:35,040 --> 00:51:38,700
+is that I want to see the UNIX version faster than the Windows version.
+
+974
+00:51:39,560 --> 00:51:41,070
+Once you pull that off,
+
+975
+00:51:41,070 --> 00:51:43,260
+then, you know, we'll see.
+
+976
+00:51:43,310 --> 00:51:44,280
+But that is my goal.
+
+977
+00:51:45,730 --> 00:51:47,860
+Pavlov is hired by Netscape.
+
+978
+00:51:47,860 --> 00:51:50,150
+He postpones going to college.
+
+979
+00:51:52,370 --> 00:51:55,060
+Taking part in what one investor has called the largest
+
+980
+00:51:55,060 --> 00:51:57,730
+legal creation of wealth in the history of the planet,
+
+981
+00:51:57,730 --> 00:52:00,590
+David Readerman moves to a new investment bank.
+
+982
+00:52:04,300 --> 00:52:05,580
+Here's the data center,
+
+983
+00:52:05,580 --> 00:52:08,170
+a lot of cable, a lot of fiber.
+
+984
+00:52:08,350 --> 00:52:12,270
+These can be sort of, you know, internet connections
+
+985
+00:52:12,320 --> 00:52:14,790
+they can be our trading lines, our phone lines.
+
+986
+00:52:14,790 --> 00:52:17,780
+You know we're lying the infrastructure
+
+987
+00:52:17,780 --> 00:52:21,040
+to basically build a major merchant bank.
+
+988
+00:52:21,580 --> 00:52:24,520
+Our view is that the internet changes everything 
+
+989
+00:52:24,520 --> 00:52:26,840
+and we're going to finance the companies
+
+990
+00:52:26,840 --> 00:52:29,330
+that want to be the agents of that change.
+
+991
+00:52:36,860 --> 00:52:38,040
+Look at this intersection,
+
+992
+00:52:38,040 --> 00:52:40,320
+we've got a bank here,
+
+993
+00:52:40,320 --> 00:52:42,980
+in two years you know this may not be here,
+
+994
+00:52:42,980 --> 00:52:45,330
+why not bank online?
+
+995
+00:52:47,520 --> 00:52:49,150
+Gap's website
+
+996
+00:52:49,150 --> 00:52:52,590
+is one of the most successful commerce websites
+
+997
+00:52:52,590 --> 00:52:54,590
+on the market. 
+
+998
+00:52:56,070 --> 00:52:59,030
+I don't even know why Gap's renovating this store?
+
+999
+00:52:59,030 --> 00:53:01,600
+Why aren't they investing more in their website?
+
+1000
+00:53:03,370 --> 00:53:06,480
+I don't know what this intersection may look two years from now.
+
+1001
+00:53:09,230 --> 00:53:11,180
+When I started people didn't know what HTML was,
+
+1002
+00:53:11,180 --> 00:53:12,880
+what the World Wide Web was, and then all of a sudden
+
+1003
+00:53:12,880 --> 00:53:14,880
+the power of the Internet that had been there
+
+1004
+00:53:14,880 --> 00:53:17,130
+for years is available to everybody
+
+1005
+00:53:17,250 --> 00:53:20,330
+in an easy way, Point & click, the universal language.
+
+1006
+00:53:20,330 --> 00:53:23,770
+It's like in Fantasia when Mickey is standing over the
+
+1007
+00:53:23,840 --> 00:53:25,400
+the book that's open on the mountain,
+
+1008
+00:53:25,400 --> 00:53:26,510
+and he's looking in to see what to do
+
+1009
+00:53:26,510 --> 00:53:28,510
+and he does something. And he doesn't really know what he does
+
+1010
+00:53:28,750 --> 00:53:29,890
+but it makes something happen.
+
+1011
+00:53:29,890 --> 00:53:32,260
+And of course this thing gets out of control and keeps going.
+
+1012
+00:53:32,280 --> 00:53:33,990
+You don't know why it works, you don't know how it works,
+
+1013
+00:53:33,990 --> 00:53:35,790
+you just push a button and it works.
+
+1014
+00:53:35,790 --> 00:53:37,810
+We're at the beginning of an industry and
+
+1015
+00:53:37,810 --> 00:53:39,810
+who knows where that industry's gonna go?
+
+1016
+00:53:39,810 --> 00:53:41,890
+This could all turn into television again.
+
+1017
+00:53:41,890 --> 00:53:44,580
+It could be controlled by a small number of
+
+1018
+00:53:45,860 --> 00:53:48,180
+companies who decide what we see and hear.
+
+1019
+00:53:48,180 --> 00:53:50,180
+And there's a lot of precedent for that.
+
+1020
+00:53:51,340 --> 00:53:53,510
+I'm just laying down the tracks
+
+1021
+00:53:53,510 --> 00:53:55,510
+and there were these trains zooming by me,
+
+1022
+00:53:55,510 --> 00:53:57,440
+and there's no way I'd want to say it's a
+
+1023
+00:53:57,440 --> 00:53:59,440
+bad thing to have these trains fly by.
+
+1024
+00:54:00,380 --> 00:54:01,860
+I could be a horrible legacy.
+
+1025
+00:54:01,860 --> 00:54:04,230
+If it ended up being a legacy of,
+
+1026
+00:54:04,230 --> 00:54:06,600
+you know, Netscape and the Internet,
+
+1027
+00:54:07,360 --> 00:54:09,070
+that we could all like,
+
+1028
+00:54:10,200 --> 00:54:11,680
+do what we're doing only under
+
+1029
+00:54:11,680 --> 00:54:13,360
+much more intense pressure and
+
+1030
+00:54:13,680 --> 00:54:14,720
+much faster.
+
+1031
+00:54:17,090 --> 00:54:18,450
+Everything has to change faster,
+
+1032
+00:54:18,450 --> 00:54:20,150
+obviously, you know, look at Netscape.
+
+1033
+00:54:20,150 --> 00:54:22,150
+It was born and died.
+
+1034
+00:54:22,150 --> 00:54:23,950
+I don't want to use the word "died", they wouldn't like that word.
+
+1035
+00:54:23,950 --> 00:54:26,300
+But basically it was born and overtaken
+
+1036
+00:54:26,300 --> 00:54:27,760
+within four years.
+
+1037
+00:54:27,760 --> 00:54:30,050
+That's pretty fast, I think.
+
+1038
+00:54:30,400 --> 00:54:31,830
+They must think it's very fast.
+
+1039
+00:54:31,830 --> 00:54:33,830
+Near the end of 1999,
+
+1040
+00:54:33,830 --> 00:54:35,510
+the public still awaits Netscape's
+
+1041
+00:54:35,510 --> 00:54:37,510
+first open source browser,
+
+1042
+00:54:37,510 --> 00:54:39,980
+more than a year after Mozilla was released.
+
+1043
+00:54:40,270 --> 00:54:42,120
+The judge and the justice department
+
+1044
+00:54:42,120 --> 00:54:44,440
+end a trust trial rules that Microsoft
+
+1045
+00:54:44,470 --> 00:54:46,770
+is a monopoly, it stiffles innovation.
+
+1046
+00:54:46,770 --> 00:54:48,570
+AOL begins the millenium
+
+1047
+00:54:48,590 --> 00:54:50,620
+with a new even larger aquisition,
+
+1048
+00:54:50,620 --> 00:54:53,430
+and investors continue buying technology stocks,
+
+1049
+00:54:53,430 --> 00:54:56,220
+which trade with increasing volatility.
+
+1050
+00:54:56,860 --> 00:54:59,280
+Still as the Internet finds its way
+
+1051
+00:54:59,280 --> 00:55:01,060
+into every corner of daily life,
+
+1052
+00:55:01,060 --> 00:55:03,180
+so to fix melegions of programmers
+
+1053
+00:55:03,180 --> 00:55:05,380
+and their code, working fast
+
+1054
+00:55:05,380 --> 00:55:07,380
+and late into the night.

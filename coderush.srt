@@ -4614,7 +4614,7 @@ in an easy way, Point & click, the universal language.
 
 1149
 00:53:20,330 --> 00:53:23,770
-It's like in Fantasia when Mickey is standing over the
+It's like in Fantasia when Mickey is standing over
 
 1150
 00:53:23,840 --> 00:53:25,400
@@ -4798,7 +4798,7 @@ into every corner of daily life,
 
 1195
 00:55:01,060 --> 00:55:03,180
-so to will legions of programmers
+so, too will legions of programmers
 
 1196
 00:55:03,180 --> 00:55:05,380

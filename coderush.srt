@@ -251,7 +251,7 @@ We said were giving you Netscape Communicator on 3/31
 so if were not giving them Netscape Communicator on 3/31
 
 64
-00:03:38,640 --> 00:03:40,640
+00:03:38,640 --> 00:03:40,040
 we need a way to address that.
 
 65
@@ -3601,7 +3601,7 @@ designed to maintain its monopoly in personal computer operating systems
 
 896
 00:40:34,830 --> 00:40:39,460
-and attempting to extend that monopoly to internet browser software.
+and attempting to extend that monopoly to Internet browser software.
 
 897
 00:40:39,670 --> 00:40:41,830
@@ -4526,7 +4526,7 @@ a lot of cable, a lot of fiber.
 
 1127
 00:52:08,350 --> 00:52:12,270
-These can be sort of, you know, internet connections
+These can be sort of, you know, Internet connections
 
 1128
 00:52:12,320 --> 00:52:14,790
@@ -4542,7 +4542,7 @@ to basically build a major merchant bank.
 
 1131
 00:52:21,580 --> 00:52:24,520
-Our view is that the internet changes everything
+Our view is that the Internet changes everything
 
 1132
 00:52:24,520 --> 00:52:26,840
